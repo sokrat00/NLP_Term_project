@@ -1,0 +1,131 @@
+Azərbaycan  Respublikası  Təhsil  Nazirliyi
+Təhsil  Problemləri İnstitutu
+
+ 
+
+
+Ilk peşə ixtisas təhsilli 
+mütəxəssislərin hazırlığı üçün
+
+
+
+
+“İnformatika” fənninin
+ 
+
+Tədris proqramı
+
+Bakı – 2016
+
+
+
+
+
+Tərtib edən:          Səlimə İmran qızı Quliyeva  
+                                                         ARTPİ , Peşə ixtisas təhsili şöbəsinin böyük elmi işçisi 
+												
+                      
+
+       
+                                                         
+                
+                     
+        Elmi redaktor:         Rəsul Baxşəli oğlu Əsgərov                      
+                                   ARTPİ, Peşə ixtisas təhsili şöbəsinin müdiri, əməkdar müəllim                               
+                     
+
+
+ 
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+İzahat vərəqi
+Hal-hazırda Cəmiyyət həyatının elə bir sahəsi və istiqaməti yoxdur ki, onu kompütersiz təsəvvür etmək mümkün olsun. Hökümət təşkilatları, qeyri-hökumət və özəl qurumlar öz fəaliyyətlərində müasir İKT-dən get-gedə daha dolğun istifdə etməyə çalışırlar. Sosial-iqtisadi, elm-mədəniyyət, ictimai-siyasi, təhsil və s. fəaliyyət sahələri İKT-dən istifadə etməklə yeni məzmun kəsb etmişdir. 
+Bu baxımdan, İnformatika elminin tədrisi və təbliği son dərəcə aktuallaşmışdır. İnformatikanın ümdə məqsədi alqoritmik mədəniyyət formalaşdırmaqdır. Bu isə yeni düşüncə tərzi, dünyəvi biliklərə yiyələnmək, ümumbəşəri dəyərlərə sahib çıxmaq imkanının reallaşması deməkdir.  İnformatika, Cəmiyyətin istifadəsinə təqdim etdiyi təməl ideyalar və prinsiplər əsasında yaradılmış bütün aparat və proqram vasitələrindən və bunlara söykənən İKT-dən hərtərəfli və səmərəli istifadə üsulları barədə biliklər sistemidir.  
+Fənn informatikanın nəzəri və praktik əsaslarının öyrədilməsi üçün nəzərdə tutulmuşdur.
+Kursun məqsədi tələbələri "Informatika" elminin əsas müddəaları ilə tanış etməkdən, yeni informasiya texnologiyalarının səmərəli tətbiqi üçün mövcud proqram məhsullarının müqayisəli xarakteristikalarının öyrədilməsi və tələbələrə müasir əməliyyat sistemləri mühitində fərdi kompyuterlərdə və kompyuter şəbəkələrində praktik iş vərdişlərinin aşılanmasından ibarətdir.
+Kursun vəzifəsi tələbələrə müasir proqram məhsullarını və informasiya texnologiyalarını tədrisdə və gələcək fəaliyyətlərində tətbiq etməyi öyrətməkdir. Öz növbəsində bu fənn müasir informasiya texnologiyalarının nailiyyətlərindən istifadə edərək digər sahələrdə də elmi biliklərin əldə edilməsində baza rolunu oynayır.
+Proqram Peşə təhsili müəssisələrində müxtəlif ixtisaslarda  təhsil alan tələbələr üçün nəzərdə tutulmuşdur. 
+
+
+
+“İnformatika” fənninin mövzuları
+Giriş.  İnformatikanın obyekti, predmeti və metodu  
+ Dünyanın maddi-enerji  mənzərəsi, Dünyanın informasiya mənzərəsi, İnformasiya təbiətdə, Canlı təbiət və informasiya, Genetik informasiya, İnsan və informasiya, İnformasiya və cəmiyyət, İnformasiya prosesləri texnikada, İnformatlaşdırmanın aparat və proqram vasitələri, İnformasiya və kommunikasiya texnologiyaları,  İnformasiya cəmiyyəti
+
+Bölmə 1. İnformasiya, onun kəmiyyət və keyfiyyət xarakteristikası
+İnformasiya təməl elmi anlayış kimi (İnformasiya fizikada, İnformasiya biologiyada, İnformasiya kibernetikada, İnformasiya informatikada, İnformasiyanın sosial əhəmiyyətli xassələri); İnformasiynın kəmiyyət xarakteristikaları ((İnformasiyanın texnikada ölçülməsi, Xəbərin informasion həcmi, İnformasiyanın miqdarı – bilikdəki qeyri-müəyyənliyin azalması ölçüsü kimi (İnformasiya və bilik, Bilikdəki qeyri-müəyyənliyin azalması), İnformasiya miqdarının ölçü vahidləri, Mümkün halların sayı və informasiyanın miqdarı)),  İnformasiyanın miqdarının təyini üçün əlifba yanaşması, İnformasiyanın miqdarı üçün Şennon düsturu, İnformasiyanın təqdimatı və kodlaşdırılması (Dil və işarələr sistemi, Canlı orqanizmlərdə informasiyanın təqdimatı, İnformasiyanın kodlaşdırılması, Kompüterdə informasiyanın 2-lik kodlaşdırılması, Səs informasiyasının kolaşdırılması), İnformasiyanın saxlanması (İnformasiya daşıyıcılarının informasiya tutumu, İnformasiyanın saxlanmasının etibarlılığı və uzun müddətliliyi, İnformasiyanın müxtəlif növlərinin sıxılması (arxivləşdirilməsi), Seriyalı kodlaşdırma üsulu ilə sıxma, Haffmen alqoritmi)
+
+Bölmə 2. İnformasiya emalının texniki vasitələri
+Ədədi informasiya emalı qurğuları, İnformasiya emalının instrumental vasitələrinin inkişafı (EHM-ə qədərki tarixi dövr, EHM nəsilləri, Superkompüterlər və klasterlər, Növbəti nəsil kompüterləri), Fərdi kompüterlərin aparat təminatı, Kompüterin iş prinsipi (İnformasiyanın kodlaşdırılması və kompüter yaddaşında təsviri), Proqramın kompüterdə icrası prosesi, Kompüterin aparat həlli ((Kompüterin sistem bloku, Prosessorun, sistem şini və periferya qurğuları şininin tezliyi, Xarici (uzunmüddətli) yaddaş, İnformasiyanın yazılıb oxunmasının maqnit prinsipi (Çevik maqnit diskləri, Sərt maqnit diskləri (vinçester)), İnformasiyanın yazılıb oxunmasının optik prinsipi, Flash-yaddaş)), Aparat platformalarının növləri , Kompüterin təşkili və fəaliyyəti (Mərkəzi prosessor, Operativ yaddaş, Sistem şinləri), Periferiya qurğuları: təyinatı və xarakteristikası (Giriş qurğuları, Xarici yaddaş qurğuları, Çıxış qurğuları, Bəzi digər qurğular)
+
+
+
+Bölmə 3. Kompüterin hesabi və məntiqi əsasları  
+Ədədi informasiyanın say sisteminin köməyi ilə təqdim edilməsi (Mövqeli say sistemləri, 10-luq say sistemi, 2-lik say sistemi), Ədədlərin bir say sistemindən digərinə keçirilməsi (Ədədlərin 10-luq say sisteminə keçirilməsi, Ədədlərin 10-luq say sistemindən 2-lik, 8-lik və 16-lıq say sistemlərinə keçirilməsi, 2-lik say sistemindəki ədədləri 8-lik say sisteminə keçirmək, 2-lik say sistemindəki ədədləri 16-lıq say sisteminə keçirmək), 2-lik say sistemində hesab əməlləri, Məntiqin əsasları və kompüterin məntiqi əsasları (Təfəkkür formaları, Mülahizələr cəbri, Riyazi məntiqin elementləri), Ədədlərin kompüterdə təqdimatı (Ədədlərin qeyd edilmiş vergüllü formatda təqdimatı, Ədədlərin sürüşən vergüllü formatda təqdimatı), Mətn informasiyasının 2-lik kodlaşdırılması, Şəkil və səsin analoq və diskret təqdim edilmə üsulları (Qrafik informasiyanın 2-lik kodlaşdırılması, Səs informasiyasının 2-lik kodlaşdırılması), Kompüter qurğularının məntiqi əsasları (Baza məntiqi elementlər, 2-lik ədədlər cəmləyicisi, Trigger). 
+
+Bölmə 4. İnformasiyanın işlənməsinin avtomatlaşdırılmasının əsasları
+Alqoritmləşdirmənin əsasları və proqramlaşdırma (Alqoritm və onun formal icrası, Alqoritmik strukturların əsas tipləri), Verilənlərin proqramla emalı, Proqramlaşdırma sistemləri, Obyektyönümlü proqramlaşdırma (Obyektyönümlü vizual proqramlaşdırmanın əsasları, Obyekt sinifləri, sinif nüsxələri və obyekt ailələri, Obyektlər: xassələr, metodlar, hadisələr, Visual Basic-də hazırlanmış proqram layihəsinin  qrafik interfeysi və hadisəvi prosedurları, Visual Basic dilində proqram tərtibi üçün  inteqrasiya edilmiş mühit, Visual Basic mühitində idarəedici quruluşlar Forma və idarəedici elementlərin formada yerləşdirilməsi, Dəyişənin tipi, adı və qiyməti, Hesabi, sətri və məntiqi ifadələr. Mənimsətmə, Proqram layihəsinin kompüterdə icrası, Visual Basic dilində dialoq pəncərələri və fayllarla iş Visual Basic dilindəki funksiyalar, Visual Basic dilində ümumi prosedurlar)
+
+Bölmə 5. Kompüter sistemlərinin proqram təminatı
+Proqram təminatı haqqında ümumi məlumat, Proqram təminatının tipologiyası, Sistem proqram təminatı (Əməliyyat sistemi (ƏS): təyinatı və tərkibi, Əməliyyat sisteminin yüklənməsi, Fayllar və fayl sistemi, Disklərin məntiqi quruluşu, Əməliyyat sisteminin funksiyaları, Qrafik interfeysli əməliyyat sistemləri), İnformasiya təhlükəsizliyi (Kompüter virusları, Antivirus proqramları), Tətbiqi proqram təminatı, Tətbiqi proqram təminatına nümunələr (Mətn redaktorları, Elektron cədvəllər, Qrafik redaktorlar), Proqram təminatının yayılması
+
+
+Bölmə 6. Kompüter şəbəkələrinin arxitekturası
+Kompüter şəbəkələri haqqında ümumi anlayış və onların təyinatı, Verilənlərin rabitə kanalları ilə ötürülməsi (Şəbəkədə qarşılıqlı fəaliyyət metodları, Açıq sistemlərin şəbəkədə qarşılıqlı fəaliyyətinin etalon modeli), Lokal şəbəkə topologiyası (Lokal şəbəkələrin fəaliyyət texnologiyası, Lokal şəbəkədə işin sistem təminatı), Qlobal kompüter şəbəkələri (Qlobal kompüter şəbəkəsi – İnternet, İnternet xidmətləri, İnternetdə resursların ünvanlaşdırılması, TCP/IP protokolları ailəsi)
+
+Bölmə 7. İnformasiya sistemləri və texnologiyaları
+İnformasiya emalının müasir üsulları, İnformasiya emalı sistemlərinin inkişaf tarixi, Müasir informasiya emalı sistemləri, İnformasiya emalının kompüter üsulu ilə bağlı problemlər (Verilənlərin  kompüter texnologiyasının adi texnologiyadan fərqi), Kompüter texnologiyalarının təkamülü, Kompüter texnologiyalarının təkamülü, İnformasiya sistemlərinin baza texnologiyaları, Verilənlər bazası texnologiyaları (Verilənlər bazası (VB) texnologiyalarının əsasları, İnformasiya sisteminin predmet oblastı  və onun modelləşdirilməsi, Verilən modelləri, Verilənlər bazası sistemlərinin (VBS) arxitekturası, Verilənlər bazasının saxlama mühitinin təşkili, VB inzibatçılığı, Verilənlər bazasının layihələşdirilməsi, VB texnologiyalarının inkişaf perspektivləri), Mətni axtarış texnologiyaları (Mətni axtarış texnologiyalarının əsasları, Mətni axtarış prinsipləri, Linqvistik təminat vasitələri, Axtarış modelləri, Mətni axtarış sistemlərinin vəziyyəti və yeni tələblər, Mətn sistemlərinin funksional imkanlarının genişləndirilməsi), Veb texnologiyaları (İnternetin informasiya servisləri, Veb-in informasiya resursları, Veb texnologiyalarının baza standartları, Veb informasiya resurslarına müraciət, Veb, JavaScript və Java, Yeni Veb texnologiyaları, Həllini gözləyən problemlər)
+
+
+Ədəbiyyat
+1.  İsa Musayev, Mətləb Əlizadə “İnformatika” Dərs vəsaiti.  
+
+2.  Xəlilov.M.S   “İnformatika” Dərs vəsaiti.  Bakı,2009
+
+3. Rüstəmov Ə.M    “İnformatika”   Bakı-2010
+
+4. Z.Ə. Tağıyeva, S.B. Mazanova “Kompyuter sistemlərinin quruluşu və əməliyyat sistemləri” Bakı-2012
+
+5. Səfərov Z.H “Kompüter ensiklopediyası” Bakı-2013
+
+6.Fəzəliyev T “İnformatika”   Bakı-2012
+
+7. İnternet vasitəsilə alınmış materiallar
+
+8. Ilkaddimlar.com
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,165 @@
+Azərbaycan  Respublikası  Təhsil  Nazirliyi
+
+Təhsil   İnstitutu
+Peşə ixtisas təhsili şöbəsi
+
+
+
+
+İlk peşə-ixtisas təhsili müəssisələri üçün
+                             “ Kompüter üzrə operator” ixtisası üzrə
+“Kompüter avadanlıqlarının texniki təminatı” fənninin
+NÜMUNƏVİ TƏDRİS PROQRAMI
+          
+
+
+
+
+
+
+
+
+
+
+Bakı – 2017
+
+
+
+
+
+
+İzahat vərəqi
+Kompüter avadanlıqlarının texniki təminatı  kompüter texnikasının  yaranma tarixini, inkişaf mərhələlərini, daxili yaddaş qurğularını, xarici yaddaş qurğularını və daxiletmə və xaricetmə qurğularını əhatə edir.
+ “Kompüter avadanlıqlarının texniki təminatı” fənni   “ 030219 ” “ İnformasiya – kommunikasiya texnologiyası və hesablama texnikasının    təmiri və servis xidməti ”  qrupuna daxil olan “Kompüter üzrə operator” ixtisasında  tədris edilir.
+  “Kompüter avadanlıqlarının texniki təminatı”  fənni tədris planına uyğun olaraq; 
+	•	1 illik təhsil müddətində 50 saat (I yarım ildə - 45 saat, II yarım ildə - 5 saat);
+	•	2 illik təhsil müddətində 38 saat (I kurs I yarım ildə - 15 saat, II yarım ildə-23 saat);
+	•	3 illik təhsil müddətində 38 saat (I kurs I yarım ildə - 15 saat, II yarım ildə - 23 saat) həcmində tədris olunması planlaşdırılmışdır.
+
+
+
+
+
+
+
+
+
+
+
+
+“ Kompüter avadanlıqlarının texniki təminatı”
+fənninin mövzu planı və saatların bölgüsü
+S/S
+Mövzuların  adı
+Təhsil müddəti
+saatlar  üzrə
+
+
+
+1 il
+2 il
+3 il
+1
+2
+3
+
+
+1
+Mövzu:1  Kompüter texnikasının  yaranma tarixi və inkişaf mərhələləri
+2
+2
+2
+2
+Mövzu:2 Daxili yaddaş qurğuları
+6
+4
+4
+3
+Mövzu:3  Xarici yaddaş qurğuları
+12
+8
+8
+4
+Mövzu:4  Daxiletmə qurğuları
+10
+8
+8
+5
+Mövzu:5 Xaricetmə qurğuları
+12
+10
+10
+  6
+Mövzu:6 Həm daxiletmə, həm də xaricetmə qurğuları
+8
+6
+6
+
+Cəmi:
+50
+38
+38
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Kompüter avadanlıqlarının texniki təminatı” 
+fənninin mövzuları
+
+
+Mövzu:1  Kompüter texnikasının  yaranma tarixi və inkişaf mərhələləri 
+
+Avtomatik rəqəmli kompüterlər. Elektromexaniki kompüterlər. Elektron kompüterlər. Tranzistorlu kompüterlər. İnteqral mikrosxem əsaslı kompüterlər
+Portativ kompüterlər və xüsusiyyətləri. İntel 4004, İntel 8008, İntel 8080, AMD Am 9080, AMD Am 2900, İntel 8086, İntel 8088, İntel 80286, AMD Am 286, İntel 80386 DX, AMD Am 386, İntel 80486 DX,........ AMD FX-4150 Bulldozer, AMD FX-8150 ZAMBEZİ
+
+Mövzu:2 Daxili yaddaş qurğuları  
+  
+RAM (operativ yaddaş), RAM-ların quruluşu, növləri, xüsusiyyətləri, paketləri.  
+ROM (daimi yaddaş), ROM- un daxilində olan əmrlər: (POST (ingiliscə: Power On Self Test) – kompyuter qoşulduqda qurğuların elektrik enerşisinə qoşulmasını yoxlayır, CMOS (ingiliscə: Complementary metal-oxide semiconductor) - Fərdi kompüterlərə xidmət göstərən proqramların işləməsi 
+üçün lazım olan informasiyalar CMOS-da saxlanılır, BIOS (ingiliscə: Basic Input/Output System) – avadanlıqlarla müxtəlif əməliyyatlar aparmaq üçün tətbiq olunur, BOOT (yüklənmə) – əməliyyat sistemi ilə bağlı olan əmrlər.
+Keş yaddaş və səviyyələri
+
+Mövzu:3  Xarici yaddaş qurğuları  
+Informasiya daşıyıcısı CD (Compact Disk) və ya DVD-dir (Digital Versatile Disk). DVD daşıyıcısının daxili quruluşu. Yazan CD-R yaddaş qurğusu (Compact Disk Recordable). DVD-RW yazan yaddaş qurğusu. Sərt disk (HDD), "Vinçester" adının yaranması, Sərt disklərin inkişafındakı naliyyətlər, Sərt diskin iş prinsipi, Sərt disklərin əsas komponentləri, Sərt disk lövhələri, Oxuma/yazma başlıqları, Başlıqların mövqeyini dəyişən mexanizm, Sərt diskin formatlanması, Sərt diskin parametrləri, Bir neçə sərt diskin kompyuterə qoşulması (RAID) Fləş yaddaş (flash memory), Strimer - Maqnit lentlər
+
+Mövzu:4  Daxiletmə qurğuları  
+
+Klaviatura haqqında əsas məlumatlar. Klaviaturanın hissələri (Hərf-rəqəm klavişləri, Funksional düymələr, Kursoru idarə edən düymələr , Rəqəm klaviaturası, Xüsusi düymələr). Skanerin növləri. Planşet skaner, Sənəd skaner, Kitab skaner, Rulon skaner, Barkod skaner, Baraban   skaner, Pasport skaner, Reproskaner, Slayd skaner, 3D skaner, Tibbi skanerlər. Mausun növləri və iş prinsipi. Qrafik planşet (digitizer). Mikrafon. Veb kamera. Rəqəmsal fotokamera. TV-tüner.
+
+Mövzu:5 Xaricetmə qurğuları     
+Monitor(displey) - un növləri. CRT(elektron-şüa borusu) monitor. LCD (Maye kristallar) monitor. PDP (Plazma) monitor. Monitorların parametrləri.
+ Printerlərin işləmə prinsiplərinə və tətbiq sahələrinə görə növləri. Çiçəkli printerlər (daisywheel printer), İynəli printerlər(dot-matrix printers), Şırnaqlı (mürəkkəbli) printerlər ( inkjet printers), Lazer Printerləri. Plotterlərin növləri, quruluşu və iş prinsipi. Səs ucaldıcısı (səs kolonkası)-nın növləri və iş prinsipi.
+
+Mövzu:6 Həm daxiletmə, həm də xaricetmə qurğuları    
+  	Modemin növləri, xüsusiyyətləri və buraxma qabiliyyəti. Səs kartının növləri, quruluşu, iş prinsipi. Video kart (video adapter)-ın növləri, quruluşu, iş prinsipi. Sensor ekranların quruluşu və iş prinsipi.
+
+.
+
+
+
+
+Ədəbiyyat
+1. Kərimov S.Q., Həbibullayev S.B., İbrahimzadə T.İ.  “İnformatika” Dərs vəsaiti.  Bakı,2009
+2.  Xəlilov.M.S   “İnformatika” Dərs vəsaiti.  Bakı,2009
+3. Rüstəmov Ə.M    “İnformatika”   Bakı,2010
+4. Z.Ə. Tağıyeva, S.B. Mazanova “Kompyuter sistemlərinin quruluşu və əməliyyat sistemləri”. Bakı-2012
+5. İnternet vasitəsilə alınmış materiallar
+6. www.informatika.tr
+7. www.kitab.az
+
+
+
+
+

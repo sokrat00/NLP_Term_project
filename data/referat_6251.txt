@@ -1,0 +1,183 @@
+“AZƏRBAYCAN HAVA YOLLARI”
+Qapalı Səhmdar Cəmiyyəti
+
+MİLLİ AVİASİYA AKADEMİYASI
+
+Sərbəst iş № 1
+
+
+Fənn: Kompüterlərin arxitekturasi .
+Mövzu: Xarici yaddaş qurğuları və birləşdirici slotlar
+Fakultə: Aerokosmik
+Qrup: 1446a
+Tələbə: Sübhan Sabirli
+Fənn müəllimi: Əhmədov Əbilhəsən
+
+
+
+
+
+
+Bakı-2017
+YADDAŞ QURĞULARI . Kompüterlərdə saxlanan informasiya iki səviyyə üzrə təşkil olunur: daxili (əsas) yaddaş və xarici yaddaş. Müasir FK-larda əsas yaddaş 3 hissəyə bölünür: əməli yaddaş (Random Access Memory, RAM), daimi yaddaş (Read Only Memory, ROM) və keş yaddaş (cashe memory). Aşağıdakı şəkil  1-də kompüterlərin yaddaş qurğularının təsnifat sxemi göstərilmişdir.
+
+Şək. 1. Kompüter yaddaşının təsnifat sxemi
+ Sərt disklər. FK-larda informasiyanın saxlanması böyük həcmli və yüksəksürətli sərt disk qurğuları (HDD, Hard Disk Drive) vasitəsilə həyata keçirilir (şəkil 2). Bir çox ədəbiyyatlarda sərt disk əvəzinə vinçestr terminindən də istifadə edilir. Sərt disklər əsas xarici yaddaş qurğularından biridir. Bu disklər çevik disklərə nisbətən daha çox informasiyanı özündə saxlaya bilirlər. Müasir sərt disklər terabayt-larla ölçülürlər.
+Vinçestr gövdəsinin informasiya saxlayan diski ümumi ox üzərində bərkidilir. İnformasiyanın saxlanılması iki və ya daha çox disk üzərində təşkil edilir. Bu lövhələrin hər iki tərəfinə verilənlər yazmağa icazə verilir. Yəni, hər bir disk iki işçi səthə malikdir. Diskin informasiya saxlanan səthlərini qorumaq üçün o, xüsusi hermetik təbəqə ilə örtülür.
+Tipik sərt disklərin əsas hissələri aşağıdakılardan ibarətdir:
+	•	disk lövhələri;
+	•	oxumaq/yazmaq başlıqları;
+	•	başlıqların mövqeyini dəyişən mexanizm;
+	•	şpindel mühərriki;
+	•	elektron lövhə;
+	•	naqil və konnektorlar;
+	•	konfiqurasiya elementləri (məs., çeviricilər - jumpers). 
+Sərt diskin əsas xüsusiyyətlərinə aşağıdakılar aiddir:
+	•	diskin həcmi;
+	•	sürət (verilənlərin ötürülməsi sürəti, orta müraciət sürəti);
+	•	orta axtarış sürəti;
+	•	gözləmə müddəti;
+	•	orta müraciət müddəti.
+
+Şək. 2. Sərt disk qurğusu
+Sərt diskin təşkilinin tipik strukturu şəkil 3-də göstərilmişdir.
+Diskin hər iki tərəfi 315-dən 2048-ə qədər konsentrik çevrələrdən ibarət cığırlardan təşkil olunur. Bütün lövhələrin hər iki tərəfinə uyğun gələn cığırlar toplusu silindr adlanır. Silindrlər cığır 0/tərəf 0, cığır 0/tərəf 1, cığır 0/tərəf 2, cığır 0/tərəf 3 və s kimi təşkil olunur. Buna görə də sərt diskin yaddaşını virtual silindrlər sistemi kimi təsəvvür etmək olar. Diskin diametrindən asılı olaraq hər cığır 17-65 sayda eyni ölçülü sektora bölünür. Hər bir sektor özündə 512 bayt informasiya saxlaya bilər. Disklərin yüksək sürətlə fırlanması infor-masiyanın diskdən yüksək sürətlə oxunmasına və diskə yüksək sürətlə yazmasına icazə verir. 
+Verilənlərin sәrt disk üzәrindә tәşkili qaydası fayl sistemi adlanır. Fayl sistemlәri әmәliyyat sistemindәn asılı olaraq müxtәlif cür tәşkil olunur. Hәr bir әmәliyyat sistemi özünün xüsusi fayl sisteminə malik olur. Әn çox istifadә olunan fayl sistemlәrinə misal olaraq  FAT (File Allocation Table - faylların yerləşdirilməsi cәdvәli), HPFS (High Performance File System - yüksәk mәhsuldarlıqlı fayl sistemi) və NTFS (New Technology File System - yeni fayl sistemi texnologiyası) göstərmək olar.
+
+
+Şək. 3.. Sərt diskin təşkilinin strukturu
+ Kompakt disklər. Bütün optik disklərdə informasiya daşıyıcısı kimi səthinə işıq şüasını əks etdirən nazik maddə qatı çəkilmiş polikorbanat kimyəvi birləşmədən istifadə olunur.
+Optik disklər informasiyanın bir dəfə yazılması üçün nəzərdə tutulmuşdur. Bəzi hallarda diskin hazırlanma texnologiyasını nəzərə almaqla informasiyanın dəfələrlə yazılması üçün istifadə olunur. 
+Bəzən optik disklərin nişanlanmasında “+” və “–” simvollarından istifadə edilir. Məsələn, DVD+R və DVD-RW və ya DVD+RW. Bu simvollar disklərin müxtəlif formatlara malik olmasını bildirir.   
+İkilik informasiyanın saxlanmasının üstün cəhətlərindən biri də kompakt disklərin (CD, compact disc) meydana gəlməsi ilə bağlıdır. Maqnit və sərt disklərdən fərqli olaraq informasiyanın CD-lərə yazılması və oxunması lazer şüası vasitəsilə həyata keçirilir. CD-yə yazılan informasiya zəif lazer şüası vasitəsilə tapılaraq oxunur. Oxunan lazer şüası diskin şəffaf materialı daxilinə düşür (udulur) və diskin digər tərəfinə çəkilmiş alüminium qatına həmin şüa zərbə ilə dəyir. Daha sonra şüa müxtəlif intensivliklərlə əks olunaraq dekodlaşdırma mexanizmi həyata keçirilir. Burada diskin səthi və onu oxuyan mexanizm arasında fiziki əlaqə yoxdur. 
+Maqnit disklərindən fərqli olaraq, optik disklərə informasiyanın yazılması kəsilməz spiral cığırlar şəklində (qramafon valına bənzər) aparılır. Cığırlar arası məsafə 1.6 mkm və minimal informasiya nöqtəsinin (pit) uzunluğu 0.83 mkm təşkil edir. İnformasiyanın oxunmasını təmin etmək üçün 780 nm uzunluqlu infraqırmızı lazer şüasından istifadə olunur. Kompakt-disklərdə verilənlərin saxlanması formatı müxtəlif sektorlar üzrə verilənlərə bölünür, amma kompakt-disklərin sektorları bir fiziki ölçüyə malikdir. Kompakt-disk saat əqrəbinin əksi istiqamətində fırlanır və fırlanma sürəti həmin müddət ərzində yavaşıyır, lazerin oxunan və ya yazan şüası diskin xarici kənarına yaxınlaşır.
+Kompakt-disklər informasiya miqdarı 650 Mbayt olan CD-R (CD-Recordable) diskləri və informasiya miqdarı 702 Mbayt olan CD-RW (CD-ReWritable) diskləri kimi iki standartla istehsal olunurlar. CD-R disklər informasiyanı birdəfəlik yazmaq üçün nəzərdə tutulmuşdur və bunlar 74 dəqiqəlik audio informasiya ilə ekvivalentdir. CD-RW diskləri isə informasiyanı bir neçə dəfə yazmaq (və ya silmək) üçün nəzərdə tutulmuşdur və bunlar 80 dəqiqəlik audio informasiya ilə ekvivalentdir. CD-R tipli kompakt-disklərinin əksəriyyətində 80-dəqiqə/702 Mbayt formatı tətbiq edilir. Amma bəzən 90-dəqiqə/790 Mbayt və 99-dəqiqə/870 Mbayt formatlı disklərlə də qarşılamaq olar.
+Rəqəmsal video disklər.Kompakt-disklərin texnoloji xüsusiyyətlərinin sonrakı inkişafı nəticəsində böyük tutumlu və optik disklərin yeni nəsli, rəqəmsal video disklər (DVD - digital video disc) istehsal olunmağa başladı.
+CD-lərdə olduğu kimi DVD disklər DVD-R (birdəfəlik, yalnız oxumaq üçün) və DVD-RW (yazmaq və oxumaq üçün) olmaqla iki formatda istehsal olunur. DVD disklər 1.7 Gbaytdan 17 Gbayta qədər informasiya saxlaya bilir. DVD qurğularında verilənlərin ötü-rülmə sürəti 600 Kbit/s-dən 1.3 Mbit/s-yə qədər təşkil edir. Bu disk-lərin diametri 80 və 120 mm-dir. 
+DVD-nin əsasən iki variantından istifadə olunur. Birinci varianta aid DVD-lər  birtərəfli və birtəbəqəli, ikinci varianta aid DVD-lər isə ikitərəfli və ikitəbəqəli olmaqla fərqlənirlər. 
+Diametri 120 mm olan birtərəfli və birtəbəqəli DVD-nin tutumu 4.7 Gbayt, birtərəfli və ikitəbəqəli DVD-nin tutumu isə 8.5 Gbayt təşkil edir. İkitərəfli və birtəbəqəli DVD-nin tutumu 9.4 Gbayt, ikitə-rəfli və ikitəbəqəli DVD-nin tutumu isə 17.1 Gbayt təşkil edir.
+a)
+
+b)
+Şək. 4. Optik disklərin səthlərinin mikrofotoları
+(a – CD ROM, b – DVD)
+Diametri 80 mm olan birtərəfli və birtəbəqəli DVD-nin tutumu 1.4 Gbayt, birtərəfli və ikitəbəqəli DVD-nin tutumu isə 2.6 Gbayt təşkil edir. İkitərəfli və birtəbəqəli DVD-nin tutumu 2.8 Gbayt, ikitə-rəfli və ikitəbəqəli DVD-nin tutumu isə 5.2 Gbayt təşkil edir.
+Daha böyük tutumlu DVD disklərin informasiya cığırları arasın-dakı məsafə 0.74 mkm və pitin uzunluğu 0.4 mkm olur. Şəkil 4-da optik disklərin (“Pioneer” firması tərəfindən hazırlanmış CD-ROM və DVD disklər) səthlərinin mikrofotoları təsvir edilmişdir. 
+Blu-ray və HD-DVD. Blu-ray Disc (blue-ray disc DB, göy şüa) yüksək sıxlığa və dəqiqliyə malik yazı, video və digər rəqəmsal informasiyanın saxlanılması üçün istifadə edilən optik daşıyıcı formatıdır. Bu informasiya daşıyıcısının ilk prototipi 2000-ci ilin oktyabrında təqdim edilmişdir. Müasir variantı isə 2006-cı ilin yanvarında keçirilən İstehlak Elektronikasının Beynəlxalq sərgisində (CES - Consumer Electronics Show) təqdim edilmişdir. Blu-ray formatı bazara 2006-cı ilin yazında çıxarılmışdır. Blu-ray  diskə yazma və oxuma üçün istifadə edilən qısadalğalı (405 nm) göy lazerə uyğun adlandırılmışdır. 
+Birtəbəqəli Blu-ray (BD) diskə 23.3 Gbayt (25 Gbayt), ikitəbəqəli BD diskə 46,6 Gbayt (50 Gbayt), üçtəbəqəli BD diskə 100 Gbayt, BD diskə 128 Gbayt həcmində informasiya yerləşdirilə bilər. Hələ 2008-ci ilin sonunda yapon şirkəti Pioneer 405 nm lazeri olan oxuyucular və adi BD-pleyerlər üçün 16 və 20-təbəqəli 400 və 500 Gbayt həcmində olan disklər istehsal etdi. Pioneer Electronics şirkəti artıq üçtəbəqəli 100 Gbayt və dördtəbəqəli 128 Gbayt həcmində olan diskləri dəstəkləyən BDR-206MBK qurğusunu təqdim etdi. Disklər BD-R XL indeksləşdirilməsinə uyğun olmalıdır.
+2009-cu il tarixində yapon firması olan “TDK” 320 Gbayt həcmində olan Blu-ray diskin yaradılması haqqında məlumat verdi. “TechOn” saytına istinadən yeni ontəbəqəli disklər bütün mövcud informasiya daşıyıcısı qurğularında tamamilə dəstəklənəcək. 
+Hazırda BD-R (birdəfəlik yazı), BD-RE (çoxdəfəlik yazı), BD-RE DL (çoxdəfəlik yazı), 46,6 Gbayt (50 Gbayt) həcmə malik BD-ROM formatında disklər mövcuddur. Standart disklər 120 mm olur. Daha kiçik 80 mm ölçülərində olan disklər də mövcuddur. Bu disklər rəqəmsal fotokameralar və videokameralar üçün nəzərdə tutulub.
+ Çevik disklər .FK-da informasiyanın saxlanılması üçün sərt maqnit disklərindən başqa çevik maqnit diskləri (FDD - Floppy Disk Drive) tətbiq edilir. Tipik çevik disklərin diametri 3.5 dyumlu olmaqla, hər iki tərəfdən ferromaqnit materialı ilə örtülmüşdür. O, xarici zədələnmədən və tozdan qorunmaq məqsədilə nazik plastik qutuda yerləşdirilmişdir. 
+Sərt disklər kimi çevik disklər də cığırlara və sektorlara bölü-nürlər. Tipik çevik diskin hər bir tərəfi 40 və 80 cığıra malikdir. Onlardan hər biri 8, 9 və 18 sektora bölünürlər. Çevik diskdə 1 sektorun tutumu 512 Kbayt təşkil edir.
+Çox zaman FDD qurğular sistem platasına 34-kontaktlı şleyf vasitəsilə qoşulur. Şleyfin bir tərəfi rənglə nişanlanır. Beləliklə, 1 №-li kontaktın yerləşdiyi mövqe təyin olunur. Şleyf FDD qurğusunun birləşdiricisinə və sistem plataya qoşulur. Adətən şleyfə bir və ya iki qurğu qoşmaq olur. Belə olan halda sistem onu məntiqi disklər (A: və B:) kimi tanıyır. Şleyfin sonuncu birləşdiricisinə qoşulmuş  qurğu A: diski kimi tanınacaq. Qeyd etmək lazımdır ki, hal-hazırda mobil informasiya daşıyıcılarının (məsələn, flash cart) meydana gəlməsi çevik disklərin tamamilə yox olmasına gətirib çıxarmışdır.
+ Fləş yaddaş qurğuları. Xarici disk daşıyıcılarına yuxarıda baxdığımız CD, DVD və maqnit lentləri aiddir. Bundan başqa, buraya həmçinin, böyük tutumlu çevik disklər (Zip-disklər), yarımkeçirici disklər, USB port vasitəsilə qoşulan (mikrosxemli yaddaş qurğuları) mobil vinçestrlər, fləş-kartlar, PC Cart diskləri, ZIV informasiya yığıcıları daşınabilən disklərə aid edilir.
+Hal-hazırda daha yığcam, səssiz, yüngül və asan qoşula bilən fləş yaddaş qurğularından daha çox istifadə olunur. Fləş yaddaşların quruluşu maqnit disklərində olduğu kimi mexaniki xarakter daşımır. Yəni, onun içərisində hərəkət edə bilən heç bir hissə yoxdur. Bu xüsusiyyətinə görə belə yaddaşlar “solid-state” yəni, “hərəkətsiz” adlandırılırlar. Fləş yaddaşlar üzərində yerinə yetirilən əməliyyatlar RAM modullarında olduğu kimi icra edilir. Bu  yaddaş qurğusunu təşkil edən elementlər tranzistorlardan təşkil olunub. Burada “0” enerjinin aşağı səviyyəsini, “1” isə yuxarı səviyyəsini ifadə edir. Fləş yaddaşlara da informasiya yazıldıqda tranzistorların enerji səviyyəsi dəyişir. Quruluş etibarilə RAM modullarına bənzəsələr də, elektrik enerji kəsildikdə informasiyanın saxlanılması təmin edilir.
+Fləş yaddaş qurğularının hazırlanmasında NOR və NAND texno-logiyaları əsas götürülmüşdür. NOR texnologiyası 2004-cü ilə qədər istifadə olunurdu. NOR texnologiyası istifadə olunan yaddaşlarda informasiyanın yazılması və silinməsi əməliyyatları yaddaşın hər bir xanası üzərində aparılır. 2004-cü ildə isə bu texnologiya növü öz yerini NAND texnologiyasına təhvil verdi. NAND texnologiyasında isə informasiyanın yazılması və silinməsi əməliyyatları yaddaş xanalarının əmələ gətirdiyi bloklar üzərində icra olunur. Bu səbəbdən də NAND yaddaşlar NOR yaddaşlara nisbətdə daha sürətlidir. Hal-hazırda istifadə olunan bütün USB yaddaşlar NAND texnologiya əsasında layihələndirilir.
+Aşağıdakı şəkil 5-də “Saitek” firmasının məhsulu olan fləş yaddaş qurğusunun daxili komponentləri izahlı təsvir edilmişdir.
+
+
+
+1 - USB birləşdirici; 
+2 - mikrokontroller; 
+3 - nəzarət nöqtələri; 
+4 - fləş-yaddaş mikrosxemi; 
+5 - kvars rezonatoru; 
+6 - işıq diodu; 
+7 - mühafizə açarı; 
+8 - əlavə mikrosxem yaddaşı 
+     üçün yer.
+
+Şək. 5. Fləş yaddaş qurğusu
+FK-da istifadə edilən rahat daşınabilən yaddaş kartlarının bir neçə tipi mövcuddur: Bunlara CF (Compact Flash), MMC (Multimedia Card), RS-MMC (Reduced Size Multimedia Card), DV-RS-MMC (Dual Voltage Reduced Size Multimedia Card) aiddir.
+Müxtəlif istehsalçı firmalara məxsus olan yaddaş kartlarının təsvirləri şəkil 6-də göstərilmişdir.
+
+Şək. 6. Bəzi yaddaş kartlarının təsviri
+CF (Compact Flash - kompakt-fləş). CF yaddaş kartları fləş-yaddaş kartlarının ən köhnə standartıdır. Birinci CF kart 1994-cü ildə SanDisk firması tərəfindən yaradılmışdır. Əksər hallarda bu kartlar peşəkar fotoqrafiyada avadanlıq kimi tətbiq edilir. CF kartlar üçün slotlar mobil telefonlarda və MP3-pleyerlərdə istifadə edilir.
+MMC (Multimedia Card - multimedia kartı). MMC formalı kart çox da böyük olmayan 24х32х1,4 mm. ölçülərə malikdir. SanDisk və Siemens firmalarının birgə fəaliyyəti nəticəsində istehsal edilmişdir. MMC yaddaş kontrollerini özündə saxlayır və müxtəlif tipli qurğulara uyğunlaşa bilir. Çox zaman MMC kartları SD slotlu qurğuları dəstəkləyir.
+RS-MMC (Reduced Size Multimedia Card). RS-MMC yaddaş kartı MMC kartından 2 dəfə kiçik olmaqla digər xarakteristikaları MMC kartında olduğu kimidir. Ölçüləri 24х18х1.4 mm və çəkisi 6 qram təşkil edir. RS-MMC kartlarından istifadə zamanı MMC standartı ilə uyğunluq təşkil etmək üçün adapter tələb olunur.
+DV-RS-MMC (Dual Voltage Reduced Size Multimedia Card). DV-RS-MMC yaddaş kartı ikitərəfli enerji qidalanmasına (1.8 və 3.3 V) malikdir. Bu isə mobil telefonların daha çox işləməsinə zəmin yaradır. Kartın ölçüləri RS-MMC ilə uyğunluq təşkil edir.
+MMCmicro 14х12х1,1 mm ölçülərə malik olub, mobil vasitələr üçün miniatür yaddaş kartıdır. MMC-ın standart slotuyla uyğunluğu təmin etmək üçün birləşdiricidən istifadə etmək lazımdır.
+ SSD yaddaş qurğuları . SSD (Solid State Drive – hərəkətsiz disk qurğusu) mikrosxem yaddaşı ilə təchiz edilmiş və mexaniki elementləri olmayan yaddaş növüdür. Flash yaddaş qurğularında olduğu kimi SSD qurğusu da sərt diskdən fərqli olaraq mexaniki hissələrə malik olmur. Buna görə də SSD-lər DRAM yaddaş texnologiyası əsasında hazırlanmaqla həm sürətli, həm də böyük həcmli olur. Onlar RAM-əsaslı, Flash-əsaslı və Enterprise Flash Drive əsaslı olurlar. Sərt disklərin mexaniki başlığından fərqli olaraq SSD-lərdə oxuma və yazma əməliyyatlarını həyata keçirmək üçün idarəedici kontrollerdən istifadə edilir. Kontroller informasiyanın yüksək sürətlə oxuma və yazma əməliyyatlarını həyata keçirilir. SSD-lərdə oxuma və yazma üzrə bu göstərici saniyədə yüzlərlə meqabayt təşkil edir. SSD-lərin sürətli olmasından başqa digər əsas üstünlükləri daha az enerji sərf etmələri və kiçik ölçülərə malik olmalarıdır. 
+Hal-hazırda SSD-lər üç növdə istehsal olunur:
+	•	3.5, 2.5 və 1.8 dyum SATA interfeysinə malik olan SSD-lər;
+	•	kompüterin sistem platasına birbaşa inteqrə edilmiş SSD-lər;
+	•	PCI (PCI-e) platası şəklində SSD-lər.
+Qeyd etmək lazımdır ki, üçüncü növdən nadir hallarda istifadə edilir və əsasən birinci növə üstünlük verilir.   Sərt disklərlə müqayisədə SSD-lərin müsbət cəhətləri 2 dəfə az güc tələb etməsi (3Vt), istiliyin az ayırması, vibrasiyasının və səs-küyün olmaması ilə səciyyələnir. Mənfi cəhəti isə onların qiymət-lərinin baha olmasıdır. Şəkil 7-da SSD disk qurğusunun daxili və xarici görünüşü təsvir edilmişdir.
+
+Şək. 7. SSD disk qurğusunun görünüşləri
+Son zamanlar HDD və SSD-nin əsas əlamətlərindən ibarət hibrid əsaslı SSHD (Solid State Hybrid Drive - hərəkətsiz hibrid yaddaş qurğusu) yeni yaddaş qurğuları istehsal olunur.
+Slotlar.Giriş-çıxış qurğularının əksəriyyəti slotların köməyilə müvafiq şinlər vasitəsilə sistemin digər qurğuları arasında əlaqə saxlayırlar. Şinlər slotlar vasitəsilə  verilənlərin ünvanlaşdırılmasını həyata keçirir. Müasir FK-larda PCI şinləri  öz spesifik xüsusiyyətlərinə görə fərqlənirlər. 
+Sistem platasında ISA şini PnP əməliyyatlarını ciddi şəkildə pozurdu. Buna görə də sonralar sistem palatalarında daha modern şin olan PCI şinlər tətbiq olunmağa başladı. İlk əvvəllər Pentium prosessorları üçün ATX tipli sistem platalarında ISA və PCI şinləri birgə tətbiq edilirdi. Modem və audionun funksional imkanlarının artırılması üçün son nəsil platalara AMR (CDR) slotları əlavə edilmişdir. Bu plataların əksəriyyətində video təsvirlərin təkmilləşdirilməsi üçün AGP slotu reallaşdırılmışdır. Hal-hazırda ATX və BTX tipli sistem platalarında ISA, AGP və AMR/CDR slotları quraşdırılmır. Bütün bu slotların yerinə yetirdiyi funksional imkanlar PCI slotunun müxtəlif versiyaları ilə (PCI, PCI-X və müxtəlif səviyyəli PCIe slotları) həyata keçirilir. ISA şini istisna olmaqla, digər şinlər slotların ünvanlandırmasını dəstəkləyir və qurğuların sistemində quraşdırılması üçün PnP konfiqurasiyasını ehtiyat yaddaşda saxlayır.
+İndi isə PCI şinlərin bəzi xüsusiyyətləri və versiyaları ilə tanış olaq. Buraya PCI-lokal, PCI-x, PCI-e şinləri aid edilir. Bu şinlərlə informasiyanın mübadiləsini təmin etmək üçün uyğun slotlardan istifadə edilir.
+ PCI-E slotları. PCIe standartında slotların dörd tipi tətbiq edilir. ×1 slotu 36 kontaktı, ×4 slotu 64 kontaktı, ×8 slotu 98 kontaktı, ×16 slotu 164 kontaktı özündə saxlayır (şəkil 8).
+
+Şək. 8. PCI-E slotları
+PCIe slotlarının sistem platalarında sayı və yerləşdirilməsi sistem platalarını istehsal edən firmalar tərəfindən müəyyənləşdirilir. BTX form-faktorlu sistem platalarında bir yer ×16 slotu üçün və iki yer isə ×1 slotu üçün nəzərdə tutulub. ×16 slotu ənənəvi videoadapter üçün AGP slotunu əvəz edir. Bəzi sistem plataları 2 ədəd ×16 slotu ilə təchiz olunur. Bəziləri isə kombinasiyalı şəkildə ×8, ×4 və ×1 slotları ilə təchiz olunur. Belə platalarda bir neçə adi PCI slotları tətbiq oluna bilər.
+Sistemin yüklənməsi zamanı PCIe paylayıcısı slot üzərində platanın olub-olmamasını yoxlayır və lazım olan dupleksləri slotlar üzrə bölüşdürür. 
+ AGP slotu. Son vaxtlara qədər sistem platalarının əksəriyyəti video platanın quraşdırılması üçün AGP (Accelerated Graphics Port, sürәtlәndirilmiş qrafik port) slotu ilə təchiz edilirdi. Sistem platalarının bir çoxu AGP slotu ilə təchiz edilir. Bu slot PCI şininin modifikasiya edilmiş növüdür. Müasir videoadapterlərin qoşulması üçün PCIe×6 slotundan istifadə edilir. AGP interfeysi üçölçülü qrafik verilənlərinin emalı üçün istifadə edilir. 
+AGP 66 MHz 1x, 133 MHz 2x, 266 MHz 4x sürәtilә hәm olduqca sürәtli verilәnlәr şini, hәm dә sistem platası ilә daha sürәtli әlaqә saxlayan slotdur. AGP sadәcә, ekran kartı vә prosessor ilә istifadә edilmәsi vә genişlәnә bilmәsi sәbәbilә bir verilәnlәr şini deyil, daha çox port kimi istifadә olunur. 32 bit hәcmi olan vә PCI 2.1 standartı istifadә edәn AGP 33 MHz yerinә 66 MHz ötürmә sürәtinә malikdir.
+AGP standartı videokontrollerlə mikroprosessor arasında birbaşa kanal əlaqəsi yaradır. Video informasiyanın emalı üçün ümumi şindən istifadəni aradan qaldırır. Beləliklə, video verilənlər PCI şinindən kənarlaşdırılır. Yüksək sürət sayəsində videoverilənlərin birbaşa qoşulması, saxlanması və emalı kompüterin əməli yaddaşı vasitəsilə aparılır. Belə olan halda, videoadapterdə quraşdırılmış xüsusi yaddaş mikrosxeminə ehtiyac olmur. Portativ və birplatalı kompüterlərdə AGP portu bilavasitə sistemin daxilində quraşdırılır.
+Şəkil 9-də FK-nın sistem platalarında tətbiq olunan AGP slotunun üç tipi göstərilmişdir.
+
+Şək. 9. AGP slotları
+Adətən sistem plataları bir AGP slotu ilə təchiz edilir. Birinci tip slotlar 3.3 V (2×), ikinci tip slotlar 1.5 V (4×), gərginlikə işləyirlər. AGP slotunun sonuncu versiyasında gərginliyin qiyməti 0.8 V-a (8×) qədər endirilmişdir.
+Cədvəldə FK-larda tətbiq olunan müxtəlif tipli şinlərin parametrlərinin müqayisəsi verilmişdir. Cədvəldən görünür ki, şinin buraxılma qabiliyyəti hər bir yeni versiya üçün əhəmiyyətli dərəcədə artırılmışdır.
+
+ Cədvəl : Müxtəlif tipli şinlərin parametrlərinin müqayisəsi
+Şinin tipi
+Buraxılma qabiliyyəti (Mbayt/s)
+Bitlərin sayı
+Ünvanda bitlərin sayı
+Kanal ların sayı
+Kəsilmələrin sayı
+ISA
+8 Mbayt/s
+16
+24
+8
+11
+PCI 2
+132/264 Mbayt/s
+32/64
+32
+yox
+3
+PCI 2.1
+264/528 Mbayt/s
+32/64
+32
+yox
+3
+PCI-X 1.0
+1,06 Gbayt/s
+64
+64
+yox
+3
+PCI-X 2.0
+2,13/4,26 Gbayt/s
+64
+64
+yox
+3
+PCIe
+hər zolaq üzrə 250 Mbayt/s
+ardıcıl rejim
+Yox
+yox
+yox
+AGP
+266/533/1,070 Mbayt/s
+32
+32
+yox
+3
+ AMR və CNR slotları. Sistem plataları üçün İntel firması tərəfindən analoq və rəqəmli siqnalların emalı məqsədilə audio və modemlər üçün standartlar hazırlanmışdır. Bu standart AMR (Audio Modem Riser) slotu üzərin-də MDC (Mobile Daughter Card) platasının yerləşdirilməsini təmin edir. MDC-nin analoq hissəsi onun platası üzərində, rəqəmsal hissəsi üsə sistem platası üzərində layihələndirilir. MDC platası və ona müvafiq slot şəkil 10-də göstərilmişdir.
+Pentium prosessoruna əsaslanan sistemlərdə AMR texnologiyası, CNR (Communications and Networking Riser) adlanan yeni texnolo-giya ilə əvəz edilmişdir. CNR platası və ona müvafiq slot şəkil 11-də göstərilmişdir. CNR spesifikasiyası ARM texnologiyası ilə müqayisədə ən yaxşı imkanlara malikdir.
+
+
+
+Şək. 10 AMR slotu və müvafiq MDC platası
+Şək. 11. CNR slotu və müvafiq CNR platası
+
+

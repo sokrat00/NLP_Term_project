@@ -1,0 +1,177 @@
+Azərbaycan  Respublikası  Təhsil  Nazirliyi
+
+Təhsil   İnstitutu
+Peşə ixtisas təhsili şöbəsi
+
+
+
+
+         İlk peşə-ixtisas təhsili müəssisələri üçün
+“ Kompüter üzrə operator” ixtisası üzrə
+“Tətbiqi proqramlar” fənninin
+NÜMUNƏVİ TƏDRİS PROQRAMI
+          
+
+
+
+
+
+
+
+
+
+
+Bakı – 2017
+
+
+
+İzahat vərəqi
+
+Tətbiqi proqramlar – İnsan fəaliyyətinin müxtəlif sahələrinə aid məsələləri həll etmək üçün nəzərdə tutulan proqram təminatına deyilir. Hal-hazırda ən çox istifadə edilən tətbiqi proqramlar aşağıdakılardır:
+	•	Kompüterdə mətnlərin hazırlanması - mətn redaktorları (WordPad, Microsoft Word);
+	•	cədvəl verilənlərinin email - cədvəl prosessorları (Microsoft Excel);
+	•	nəşriyyat sənədlərinin hazırlanması - nəşriyyat sistemi (PageMarker, QuarkXpress);
+	•	informasiya massivlərinin email - verilənlər bazasının idarə edilməsi sistemləri (Microsoft Access);
+	•	təqdimatların (prezentasiyaların) hazırlanması (Microsoft Power Point);
+	•	iqtisadi əhəmiyyətli proqramların hazırlanması (Mühasib 1С);
+	•	videofilmlərin, şəkillərin yaradılması üçün proqramlar - qrafik sistemlər (Presto, Mr. Photo);
+	•	verilənlərin statistik təhlili proqramları (SPSS, Statistika);
+	•	kompüter oyunları, öyrədici proqramlar, tərcümə proqramları və s. (Polyglot, PROMT).
+Tətbiqi proqramlar iki hissədən ibarətdir:
+	•	Tətbiqi proqramlar paketi (TPP);
+	•	standart proqramlar kitabxanası.
+Tətbiqi proqramlar paketi müəyyən sinif məsələləri həll etmək üçün nəzərdə nəzərdə tutulmuş elə proqramlar kompleksidir ki, kompleksin komponentlərindən biri idarəedici rolunu oynayaraq, istifadə edilən bütün proqramların bir-biri ilə əlaqəsini təşkil etmiş olur.
+TPP-lərin aşağıdakı növləri var:
+	•	ümumi təyinatlı (universal);
+	•	üsulyönlü;
+	•	 problemyönlü;
+	•	qlobal kompüter şəbəkələri.
+Standart proqramlar kitabxanası isə riyazi funksiyaların hesablanması, standart məsələlərin həllini, verilənlərin emalını və sairə bu kimi işləri yerinə yetirən proqramlardır. Bu proqramlar əvvəlcədən hazırlanaraq istifadə üçün kompüterin yaddaşına yazılır.
+Standart proqramlar aşağıdakılardır:
+	•	Calculator - hesablama işləri üçün;
+	•	Notepad - qeydlər üçün;
+	•	WordPad - mətn redaktoru;
+	•	Paint - şəkil çəkmək üçün;
+	•	Windows Movie Maker - video montaj proqramı;
+	•	Windows Media Player - audio və video faylları oxutdurmaq üçün.
+
+“Tətbiqi proqramlar ” fənni   “ 030219 ” “ İnformasiya – kommunikasiya texnologiyası və hesablama texnikasının    təmiri və servis xidməti ”  qrupuna daxil olan “Kompüter üzrə operator” ixtisasında  tədris edilir.
+“Tətbiqi proqramlar” fənni tədris planına uyğun olaraq;
+	•	1 illik təhsil müddətində 100 saat (I yarım ildə - 75 saat, II yarım ildə - 25 saat);
+	•	2 illik təhsil müddətində 275 saat (I kurs (I yarım ildə - 75saat, II yarım ildə - 115 saat)), ( II kurs (I yarım ildə - 60 saat, II yarım ildə-25 saat));
+	•	3 illik təhsil müddətində 256 saat (I kurs (I yarım ildə - 45 saat, II yarım ildə II yarım ildə - 115 saat), ( II kurs (I yarım ildə - 15 saat, II yarım ildə -46 saat)), ( III kurs (I yarım ildə - 30 saat, II yarım ildə-5 saat)); həcmində tədris olunması planlaşdırılmışdır.
+
+
+
+
+
+
+“Tətbiqi proqramlar” 
+fənninin mövzu planı və saatların bölgüsü
+S/S
+Mövzuların  adı
+Təhsil müddəti
+saatlar  üzrə
+
+
+1 il
+2 il
+3 il
+1
+2
+3
+4
+5
+1
+Mövzu:1 Tətbiqi proqram təminatı
+4
+8
+8
+2
+Mövzu:2 Standart proqramlar
+12
+24
+20
+3
+Mövzu:3 Microsoft Word -2013
+28
+54
+55
+4
+Mövzu:4 Microsoft Excel-2013
+24
+40
+40
+5
+Mövzu:5 Verilənlər bazasının idarəetmə sistemləri. MS Access proqramı - 2013
+20
+38
+30
+6
+Mövzu:6 Microsoft PowerPoint-2013
+24
+50
+50
+7
+Mövzu:7 Microsoft Publisher -2013
+18
+38
+38
+
+Cəmi:
+130
+252
+241
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Tətbiqi proqramlar” 
+ fənninin mövzuları
+
+Mövzu:1 Giriş. Tətbiqi proqram təminatı haqqında məlumat
+Ümumi təyinatlı Tətbiqi proqram paketləri. Redaktorlar. Verilənlər bazası . İyerarxik modelli VBİS. Şəbəkə modelli VBİS. Relyasiya modelli VBİS. CASE – texnologiyası. Ekspert sistemlərindən (ES).  Üsulyönlü Tətbiqi proqram paketləri. Riyazi proqramlaşdırma (xətti, dinamik, statik və s.). Şəbəkəli planlaşdırma və idarəetmə. Kütləvi xidmət nəzəriyyəsi.Riyazi statistika. Problemyönlü Tətbiqi proqram paketlər. Sənaye sahələri üçün problemyönlü TPP. qeyri sənaye sahələri üçün problemyönlü TPP. Xüsusi sahələr üçün problemyönlü TPP. Qlobal kompüter şəbəkələri. Mozilla Firefox. Microsoft İnternet Explorer. Elektron poçtu (E-Mail), məsələn,  MS Outlook. 
+
+Mövzu:2 Standart proqramlar
+Calculator - hesablama işləri üçün. Notepad - qeydlər üçün. WordPad - mətn redaktoru. Paint - şəkil çəkmək üçün. Windows Movie Maker - video montaj proqramı. Windows Media Player - audio və video faylları oxutdurmaq üçün.
+
+Mövzu:3 Microsoft Word -2013   
+Microsoft Word  mətn redaktoru haqqında məlumat, Mətnin daxil edilməsi və mətn sahələrində dolaşmaq, Mətni formatlaşdırmaq, Fayllar üzərində əməliyyatların aparılması. Səhifələrin  formatlaşdırılması, Microsoft Word   mətn redaktorunda mətni redaktə edərək, əlavələr etmək, Word-də cədvəllərin hazırlanması , Word-də şəkillərlə işləmək. Word-də qrafika
+
+Mövzu:4 Microsoft Excel-2013   
+Microsoft Excel cədvəl redaktoru haqqında ümumi məlumat, Excel cədvəl redaktorunda xanalar və işçi vərəqlər, Excel cədvəl redaktorunda verilənlərin formatları, Excel cədvəl redaktorunda funksiyalar, Excel cədvəl redaktorunda siyahılarla iş, Excel cədvəl redaktorunda diaqramlar və Excel kitabının çap edilməsi
+
+Mövzu:5 Verilənlər bazasının idarəetmə sistemləri. MS Access proqramı – 2013   
+MS Access proqramı – 2013 haqqında ümumi məlumat, Cədvəllərin yaradılması, Sorğuların  hazırlanması, Formaların hazırlanması, Hesabatların hazırlanması və çapı 
+
+Mövzu:6 Microsoft PowerPoint-2013     
+PowerPoint-2013 proqram pəncərəsinin quruluşu və əsas anlayışlar, Təqdimatların hazırlanması, Təqdimatların animasiyası (hərəkətə gətirilməsi, Slaydların nümayişi
+
+Mövzu:7 Microsoft Publisher - 2013
+Microsoft Publisher proqramı ilə tanışlıq. İnformasiya bülleteninə mətnin daxil edilməsi. İnformasiya bukletinin və vizit kartının yaradılması. Microsoft Publisher proqramında veb-saytların yaradılması. Veb-sayt üzərində iş.
+
+Ədəbiyyat
+1. Kərimov S.Q., Həbibullayev S.B., İbrahimzadə T.İ.  “İnformatika” Dərs vəsaiti.  Bakı,2009
+2.  Xəlilov.M.S   “İnformatika” Dərs vəsaiti.  Bakı,2009
+3. Rüstəmov Ə.M    “İnformatika”   Bakı,2010
+4. M.S.Xəlilov; S.İ.Quliyeva “ Tətbiqi proqramlar”
+5. İnternet vasitəsilə alınmış materiallar
+6. www.informatika.tr
+7. www.kitab.az
+
+
+
+
+
+

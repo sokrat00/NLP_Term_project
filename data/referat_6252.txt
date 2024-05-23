@@ -1,0 +1,887 @@
+“AZƏRBAYCAN HAVA YOLLARI”
+Qapalı Səhmdar Cəmiyyəti
+
+MİLLİ AVİASİYA AKADEMİYASI
+
+Sərbəst iş № 2
+
+
+Fənn: Kompüterlərin arxitekturasi .
+Mövzu: Prosesorlar və soketlər
+Fakultə: Aerokosmik
+Qrup: 1446a
+Tələbə: Sübhan Sabirli
+Fənn müəllimi: Əhmədov Əbilhəsən
+
+
+
+
+
+
+Bakı-2017
+
+Prosessor və onun tərkib hissələri.
+İstənilən sistem platasının əsas komponenti prosessordur. Prosessorlar xüsusi texnologiya ilə hazırlanan silisium kristalından təşkil olunur. Bir çox ədəbiyyatlarda prosessor – CPU (Centeral Prosessing Unit, mərkəzi əməliyyat qurğusu) da adlandırılır. Prosessor kompüterin “beyin mərkəzi” sayılır və proqramların icra edilməsini, həmçinin, sistemdə istifadə olunan hesab və məntiq əməliyyatlarının yerinə yetirilməsini təmin edir. Hal-hazırda istehsal olunan prosessorlar dörd əsas hissədən ibarətdir: 
+	•	registrlər (registers);
+	•	hesab-məntiq qurğusu -  HMQ (Arithmetic Logic Units);
+	•	interfeys qurğusu - İnQ (Interface Unit);
+	•	idarәetmә qurğusu - İQ (Control Unit).
+Registrlәr – prosessorun daxili yaddaş elementləridir. Hesablamalarda istifadә edilәn ikilik kodlar registrlәrdә saxlanılır. Ölçülәri 1 bit ilә bir neçә bayt intervalında dәyişә bilir. Registrlәr normal yaddaşlardakı kimi ünvan mәlumatı saxlamırlar. İQ tәrәfindәn birbaşa istifadәyә açıqdırlar. Registrlәr prosessorda müxtәlif mәqsәdlәr üçün istifadә edilir.
+Mәsәlәn, ünvanların yaddaş registrləri (Memory Address Register) әmrlәrin әmәliyyat prosesindәki ünvanlarını registrdә saxlayarkәn, verilәnlәrin yaddaş registrləri (Memory Data Register) әmrlәrin әmәliyyat anındakı ikilik qiymәtlәrini registrdә saxlanmasını təmin edir.
+HMQ – hesabi vә mәntiqi әmәliyyatları yerinә yetirmәk üçün nәzәrdә tutulmuşdur. Prosessorun daxilindә bir neçә HMQ ola bilәr. Bu qurğu həmçinin, hesab әmәliyyatlarından əldə olunan nәticәlәrinin registrlәrә yazılmasında da iştirak edir. Qrafiki və multimedialı proqramlarla  işlədikdə aktiv olaraq bundan istifadə edilir. Başqa bir HMQ ən mürəkkəb riyazi hesablamaları (sürüşən nöqtəli ədədlər üzərində əməliyyatlar) yerinə yetirən blok soprosessor adlanır.
+İnQ – proqram әmrlәri vә verilәnlәrin prosessorla digәr qurğular arasında (klaviatura, maus vә s.) mübadilәsini tәşkil edir. Bu səbəbdən dә interfeys qurğusu prosessor ilә digәr qurğular arasında giriş-çıxış interfeysi kimi istifadәni təmin edir.
+İQ – verilənlərin, ünvanların yaddaş registrlərindən, əmrlər registrindən (Instruction Register, IR) vә proqram sayğacından (Program Counter, PC) tәşkil olunmuşdur. İQ prosessor daxilindә verilәnlәrin daxili qurğular arasında ötürülmәsinә vә әmrlәrin icrasına nәzarәt edir. Bu qurğunun əsas funksiyası zaman vә siqnal yoxlanmasını hәyata keçirmәkdən ibarətdir.
+Bir çox hallarda kompüter arxitekturasına – prosessor, əsas yaddaş və giriş-çıxış qurğularından ibarət struktur kimi baxılır (şəkil 1). Prosessor əməli yaddaş qurğusu ilə giriş-çıxış qurğuları arasında fiziki əlaqəni yaratmaq üçün verilənlər şinindən – VŞ (data bus), ünvan şinindən – ÜŞ (address bus) və idarəetmə şinindən – İŞ (control bus) istifadə olunur. Bu şinlərdən istifadə etməklə prosessor kodlaşdırma (decode), “icra etmə” (execute) və s. əməliyyatlarını həyata keçirir. VŞ, ÜŞ və İŞ birlikdə prosessorun sistem şini adlanır. 
+Prosessor
+  Əməli yaddaş
+ Daimi yaddaş
+ Giriş-çıxış
+  qurğuları
+Verilənlər şini
+
+Ünvan şini
+
+idarəetmə
+şini
+
+Prosessor
+  Əməli yaddaş
+ Daimi yaddaş
+ Giriş-çıxış
+  qurğuları
+Verilənlər şini
+
+Ünvan şini
+
+idarəetmə
+şini
+
+
+
+
+
+
+
+
+Şək. 1. Kompüter arxitekturasının əsas komponentləri
+VŞ – prosessor ilə daxili və xarici qurğular arasındakı verilənlərin mübadiləsini təmin edir. VŞ – 8, 16, 32 və 64 bitlərdən təşkil oluna bilər. ÜŞ – prosessor ilə əməli yaddaş qurğusu arasındakı ünvan verilənlərini özündə saxlayır və prosessorun yaddaşdan mәlumata müraciәtini tәmin edir. ÜŞ – 8, 16, 32 və 64 bitlərdən təşkil oluna bilər. İŞ – köməkçi şin olub, prosessorla əlaqəli olan bütün qurğuların sinxronlaşdırılmasını təmin edir. İdarəetmə şini şəkildə qalın qara oxlarla göstərilmişdir. 
+ Prosessorların əsas xarakteristikaları. Prosessorun əsas xarakteristikalarına onun takt tezliyi, sistem şini, mərtəbələr şəbəkəsi, keş-yaddaşın həcmi, məhsuldarlığı və nəsilləri aiddir.
+Takt tezliyi - prosessorun işləmə sürətini təyin edən ən vacib göstəricidir. Meqaherslər (MHs) və giqaherslərlə (GHs) ölçülən takt tezliyi vahid zaman ərzində prosessorun yerinə yetirdiyi dövrlər sayını göstərir. 
+Sistem şini. Sistem şini özünə məxsus informasiya magistralı olub, sistem platasına qoşulan prosessoru, əməli yaddaşı, videoplata kimi bütün qurğuları əlaqələndirir. Şinin ötürmə sürəti onun tezliyini təyin edir. Şin tezliyi Mhs və GHs-lə ölçülür. Sistem şininin tezliyi prosessorun takt tezliyi ilə “vurma əmsalı” vasitəsilə bağlıdır. Prosessorun takt tezliyi əmsala vurulmuş sistem şininin tezliyinə bərabərdir:
+2.4 GHs
+=
+12
+×
+300 MHs
+takt tezliyi
+
+əmsal
+
+şin tezliyi
+Prosessorun mərtəbələr şəbəkəsi (mərtəbəsi). Prosessorun mərtəbəsi onun daxilində olan registrlərin uzunluğu ilə bağlıdır və hər hansı bir əmr icra olunan zaman ikilik mərtəbələrin sayı ilə təyin olunur. Kompüterdə prosessorlar 8, 16, 32, 64 mərtəbələr şəbəkəsi ilə təşkil olunur. Hal-hazırda prosessorların əksəriyyəti 32 və 64 mərtəbəlidir. Əgər prosessorun takt tezliyini çaydan axan suyun sürətinə bənzətmək olarsa, prosessorun mərtəbələr şəbəkəsini həmin çayın eninə bənzətmək olar.
+Keş yaddaşın həcmi. Prosessor tez-tez istifadə olunan verilənləri əldə etmək üçün gec işləyən əməli yaddaşa və sərt diskə müraciət etmək əvəzinə, daxildə quraşdırılan keş yaddaşa  müraciət  edir. Prosessorlarda 1, 2 və 3 səviyyəli keş yaddaş texnologiyasından istifadə olunur. Onların həcmi Kbayt və Mbaytlarla ölçülür.
+ Prosessorun məhsuldarlığı. Kompüterlərin məhsuldarlığının artırılmasını nəinki böyük takt tezliyinə malik olan prosessorun seçilməsi ilə, hətta sistemə ikinci prosessoru qoşmaqla da əldə etmək olar. Hal-hazırda prosessorun vahid gövdəsi üzərində bir neçə nüvədən istifadə olunur. Prosessorun məhsuldarlığı aşağıdakı kimi xarakterizə olunur:
+Prosessorun məhsuldarlığı
+  =
+Takt üzrə icra olunan əmrlərin sayı
+×
+Takt tezliyi
+Prosessorun nəsilləri bir-birindən işləmə sürətləri, arxitekturaları, mərtəbələr şəbəkəsinin sayı, keş yaddaşın həcmi, prosessordakı nüvələrin sayı və s. kimi parametrlərlə fərqlənirlər. Məsələn, Intel firmasının istehsal etdikləri prosessorlar əvvəlki nəsil prosessorlara (Celeron, Pentium) nəzərən hazırkı dövrdə ikinci nəslini (İntel Core i7/i5/3) yaşayır.
+INTEL firmasının prosessorları. Müasir zamanda Intel firmasının istehsal etdikləri prosessorlar daha çox istifadə edilir. Onlar qiymətlərinə, takt tezliyinə, şin tezliyinə, məhsuldarlıqlarına, nüvələrin sayına və s. görə bir-birindən fəqlənirlər.
+Birinci olaraq Intel firması tərəfindən IBM PC və IBM PC-XT kompüterlərində 8088 prosessorları tətbiq olunmağa başladı. Bu prosessorlar 8 mərtəbəli verilənlər şininə və 16 mərtəbəli ünvan şininə malik idi. Daha sonralar IBM PC-AT kompüterlərində 16 mərtəbəli verilənlər şininə və 16-mərtəbəli ünvan şininə malik olan 80286 prosessorların istehsalına başlanıldı. Beləliklə, 80286 prosessoru əsasında hal-hazıradək istifadə olunan və imkanları genişləndirilən bir sıra mikroprosessor standartlarının istehsalı davam etdirilir.
+Sonralar Intel firması FK bazarında geniş funksiyalara malik olan prosessorlar istehsal etməyə başladı. Bu prosessorlara misal olaraq 80386DX və SX, 80486DX və SX, Pentium (80586), Pentium Pro (80686) və Pentium II/III/IV göstərmək olar. Intel firması məhdud imkanlara malik poosessorları SX notasiyası (qaydası) ilə işarələyir. Ümumiyyətlə, bu prosessor notasiyaları (SX, DX) digər istehsalçı firmalarla rəqabəti aparmaq üçün istifadə edilirdi.
+Intel firması müxtəlif tətbiq sahələri üçün yarımkeçirici cihazları, o cümlədən, prosessorları geniş nomenklatura üzrə istehsal edir. Burada əsasən x86 əmrlər sistemi ilə təchiz edilmiş prosessorlara baxılacaq. Hal-hazırda Intel firması aşağıdakı kateqoriya üzrə prosessorları təsnifatlaşdırır:
+	•	Mobil FK-lar üçün prosessorlar
+	•	ikinci nəsil Intel Core i7 Extreme Edition prosessorlar ailəsi;
+	•	ikinci nəsil Intel Core i7 prosessorlar ailəsi;
+	•	ikinci nəsil Intel Core i5 prosessorlar ailəsi;
+	•	ikinci nəsil Intel Core i3 prosessorlar ailəsi;
+	•	əvvəlki nəslin prosessorları.
+	•	Masaüstü FK-lar üçün prosessorlar
+	•	ikinci nəsil Intel Core i7 Extreme Edition prosessorlar ailəsi;
+	•	ikinci nəsil Intel Core i7 prosessorlar ailəsi;
+	•	ikinci nəsil Intel Core i5 prosessorlar ailəsi;
+	•	ikinci nəsil Intel Core i3 prosessorlar ailəsi;
+	•	Əvvəlki nəslin prosessorları.
+	•	Server və işçi stansiyalar üçün prosessorlar.
+Burada “əvvəlki nəslin prosessorları” dedikdə, sadələşdirilmiş və əvvəllər istifadə olunan köhnə prosessor modelləri nəzərdə tutulur (məs., Pentium, Celeron). Mobil FK və ya mobil tətbiqlər üçün enerjiyə qənaət və simsiz texnologiyalar üçün müxtəlif prosessorlar nəzərdə tutulmuşdur. Server və işçi stansiyalar üçün Intel Itanium və Intel Xeon prosessorları təklif edilir. Qeyd etmək lazımdır ki, bu prosessorlar masaüstü FK-larda istifadə olunmurlar.
+Şəkil 2-də Intel ailəsinə məxsus olan stasionar kompüterlərdə istifadə olunan zəif güclü prosessorlar, şəkil 3-də isə sənayedə və super kompüterlərdə tətbiq olunan böyük güclü prosessorlar göstərilmişdir. 
+
+
+Intel Core i7 prosessoru
+Intel Atom prosessoru
+Şək. 2. Masaüstü FK-lar üçün prosessorlar
+
+
+Intel Xeon prosessoru
+Intel Itanium 2 prosessoru
+Şək. 3 Sənayedə tətbiq olunan prosessorlar
+ İkinci nəsil Intel Core i7/i5/i3 prosessor ailəsi. Intel Core i* prosessorlar ailəsinə istifadəçilərin müxtəlif tətbiq sahələri üçün nəzərdə tutulmuş mobil və masaüstü FK-larda istifadə olunan prosessorların dörd əsas amillərinə baxılır.
+1. İkinci nəsil Intel Core i7 Extreme Edition prosessoru – ən bahalı və ən məhsuldar olur. Bu prosessorlar əsas etibarilə super kompüterlərdə istifadə edilir.
+2. Ikinci nəsil Intel Core i7 prosessoru – masaüstü FK-lar üçün ən yaxşı Intel prosessoru hesab edilir. Burada yüklənməyə reaksiya verən sürətli intellektual çoxnüvəli texnologiyalardan istifadə olunur. Bu texnologiyalar oyunların məhsuldarlığını artırır və proqram tətbiqləri üçün inanılmaz sıçrayışları təmin edir.
+3. İkinci nəsil Intel Core i5 prosessoru – multimedia proqramları ilə çoxməsələli rejimlərdə işləmək üçün unikal imkanlara malikdir. 2-kanallı rejimdən istifadə edən prosessor yaddaşının sadələşdirilməsi hesabına istifadəçilər FK-nın modernləşdirilməsi baxımın-dan iqtisadi səmərə əldə edir. Bundan əlavə, qrafik altsistemin prosessorunun korpusuna inteqrasiya edilməsi kompüteri video platasız  idarə etməyə icazə verir.
+4. İkinci nəsil Intel Core i3 prosessoru – Intel Core ailəsində ən ucuz başa gələn məhsuldur (Pentium və Celeron istisna olmaqla). Bəzi sistem platalarının çipsetləri prosessorun qrafik altsisteminə qoşulmaq üçün müvafiq sxemə malik olmur. Prosessora inteqrasiya olunmuş qrafik altsistem ev və ofis işləri üçün maksimum dərəcədə əlverişli sayılır.
+ Intel Core i7/i5/i3 prosessor ailəsinin texnologiyaları. Intel Core i* prosessor ailəsində modeldən asılı olaraq müxtəlif kombinasiyalarla bir çox müxtəlif texnologiyalar istifadə olunur. Bu texnologiyalar aşağıdakılardan ibarətdir:
+Intel Turbo Boost texnologiyası – proqramların məhsuldarlığını maksimal dərəcədə yüksəldir. Dinamik yüklənməyə məruz qalmış hissələrdə stabilləşdirməni təmin edir. Yəni, konkret nüvənin yüklənməsindən asılı olaraq onun takt tezliyini 1-2 pillə artıra və ya azalda bilər. Burada, pillə dedikdə baza takt tezliyinin vurma əmsalı başa düşülür. Prosessorların növbəti modellərində tezliyin dəyişmə əmsalı artıq 1-5 pillə təşkil edir. Sandy Bridge arxitekturalı prosessorlarda tətbiq edilmiş Intel Turbo Boost texnologiyasının ikinci versiyası temperaturun və nüvələrin takt tezliyini çevik idarə edir.
+Intel HD Boost texnologiyası – müxtəlif multimedia proqramlarının məhsuldarlığını əhəmiyyətli dərəcədə yüksəldir. Effektivliyin yeni səviyyəsinə nail olmaq üçün müvafiq əmrlər sistemi vahid takt dövründə işə buraxılır.
+Intel Hyper-Threading (HT) texnologiyası – virtual nüvələr yaradaraq çoxaxınlı məsələlərin  paralel yerinə yetirməyə icazə verir. Məsələn, 4-nüvəli prosessor üçün əməliyyat sistemi onu 8 görəcək. Əlbəttə ki, belə bir HT ilə təchiz olunmuş prosessor iki prosessorun yerinə işləyə bilməz, lakin, bu halda sürət üçün 10-20% artım almaq mümkündür.
+Intel Smart Cache texnologiyası – yüksək məhsuldarlığı və keş-yaddaşın effektivliyini təmin edir. Burada, ən müasir çoxaxınlı oyunların optimallaşdırılması təmin olunur.
+Intel QuickPath Interconnect texnologiyası – verilənlərin ötürülmə sürətinin artırılmasını təmin edir. Bu texnologiya verilənlərin buraxılma qabiliyyətinin artmasını və ləngimə vaxtının azalmasını minimuma endirmək üçün hazırlanmışdır. 
+Intel Graphics texnologiyası – prosessorun korpusuna inteqrasiya edilmiş qrafik sistemdir. 2011-ci ilə qədər hibrid istehsal texnologiyasından istifadə olunurdu. Bu zaman prosessorun kristalı 32 nm, qrafik kristal ilə birlikdə isə 45 nm təşkil edirdi. Sande Bridge arxitekturalı prosessorlarda qrafik nüvə prosessorun kristalına inteqrasiya edilmişdir.
+ Intel Core i7 prosessorları. 2008-ci ildə Intel firması “Nehalem” adı altında yeni x86 mikroarxitekturalı prosessoru təklif etdi və bununla da mikroprosessor texnikasında inqilab yarandı.
+İlk növbədə bu prosessor yaddaş modulları ilə informasiya mübadiləsini sürətləndirmək üçün yaddaşa inteqrasiya edilmiş kontrollerlərdən təşkil edilmişdir. Həmçinin çipsetdə yaranan ləngimələri ləğv etməyə icazə verir. Bu halda şimal körpüsünün payına yalnız video altsistemi ilə işləmək funksiyası düşür. Eyni zamanda cənub körpüsü ilə əlaqə funksiyası bərpa olunur. Yeniliklərdən biri də odur ki, burada üç kanallı yaddaşdan istifadə olunmasıdır. İnteqrallaşdırılmış yaddaş kontrollerləri DDR3 yaddaş modulunu dəstəkləyir. Bundan əlavə Intel Core i7 prosessorları HT texnologiyasını dəstəkləməklə yanaşı, L1 (hər nüvə üçün verilənlər və əmrlər daxil olmaqla 64 Kbayt), L2 (hər nüvə üçün 256 Kbayt), L3 (bütün nüvələr üçün 8-12 Mbayt) səviyyəli keş yaddaşa və 2-dən 6-ya qədər nüvəyə malik ola bilər, 
+Cədvəl 3.3-də Intel Core i7 prosessorunun texniki xarakteristikaları göstərilmişdir. Cədvəldəki Intel Core i7-3960X modeli Extreme kateqoriyasına aiddir. 
+ Intel Core i5 prosessorlar. Bu prosessorların əsas xüsusiyyətindən biri inteqrallaşdırılmış yaddaş kontrollerinin DDR3-ün 2 kanalını dəstəkləməsidir. Burada istifadəçi sistem platasının və yaddaşın modullarının sadələşdirilməsinə qənaət edir. Intel Turbo Boost texnologiyasından istifadə olunmaqla proqramların məhsuldarlığı maksimal dərəcədə artır. Əvvəllər prosessorun kristalına PCI Express x16 şininin kontrolleri birləşdirilirdi. Sonralar ikinci nəsil Intel Core i5 prosessorlarında Sandy Bridge arxitekturasına keçid baş verdi.
+Cədvəl 1. Intel Core i7 prosessorunun texniki xarakteristikaları
+Proses-sorun nömrəsi
+Nüvə/ axın
+Takt tezliyi, GHs
+Intel Smart Cache, Mbayt
+Kristalın ölçüsü, nm
+Intel Turbo Boost
+Intel Hyper-Threading
+Sande Bridge arxitekturası
+7-3960X
+6/12
+3.30-3.90 Turbo Boost
+15
+32
++
++
+7-3930X
+6/12
+3.20-3.80 Turbo Boost
+12
+32
++
++
+Birinci nəsil Intel Core i5 prosessorları HT və Virtualization Technology for directed I/O (VT) texnologiyalarını dəstəkləmirdi. 2011-ci ildən sonra ikinci nəsil Intel Core i5 prosessorları Sandy Bridge arxitekturası əsasında istehsal olunmağa başladı. Bundan əlavə Intel Core i5 prosessorları L1 (hər nüvə üçün verilənlər və əmrlər daxil olmaqla 64 Kbayt), L2 (hər nüvə üçün 256 Kbayt) , L3 (bütün nüvələr üçün 4-8 Mbayt) səviyyəli keş yaddaşa və 2-dən 4-ə qədər nüvəyə malik ola bilər.
+Cədvəl 2-də ikinci nəsil Intel Core i5 prosessorunun texniki xarakteristikaları göstərilmişdir.
+Cədvəl 2 . Intel Core i5 prosessorunun texniki xarakteristikaları
+Proses-sorun nömrəsi
+Nüvə/  axın
+Takt tezliyi, GHs
+Intel Smart Cache, Mbayt
+Krista-lın öl-çüsü, nm
+Intel Turbo Boost
+Intel Hyper-Threa-ding
+Qrfik həllər Intel HD
+Masaüstü FK-lar üçün ikinci nəsil Intel Core i5
+i5-2500
+4/4
+3.3–3.7
+6
+32
++
+–
+HD2000
+i5-2500K
+4/4
+3.3–3.7
+6
+32
++
+–
+HD3000
+i5-2500S
+4/4
+2.7–3.7
+6
+32
++
+–
+HD2000
+i5-2500T
+4/4
+2.3–3.3
+6
+32
++
+–
+HD2000
+i5-2400
+4/4
+3.1–3.4
+6
+32
++
+–
+HD2000
+i5-2400S
+4/4
+2.5–3.3
+6
+32
++
+–
+HD2000
+i5-2405S
+4/4
+2.5–3.3
+6
+32
++
+–
+HD3000
+i5-2300
+4/4
+2.8–3.1
+6
+32
++
+–
+HD2000
+i5-2310
+4/4
+2.9–3.2
+6
+32
++
+–
+HD2000
+i5-2320
+4/4
+3–3.3
+6
+32
++
+–
+HD2000
+i5-2390T
+4/4
+2.7–3.5
+3
+32
++
+–
+HD2000
+Mobil FK-lar üçün ikinci nəsil Intel Core i5
+i5-2557M 
+2/4
+1.7–2.7
+3
+32
++
++
+HD3000
+i5-2540M 
+2/4
+2.6–3.3
+3
+32
++
++
+HD3000
+i5-2537M 
+2/4
+1.4–2.3
+3
+32
++
++
+HD3000
+i5-2520M 
+2/4
+2.5–3.2
+3
+32
++
++
+HD3000
+i5-2510E 
+2/4
+2.5–3.1
+3
+32
++
++
+HD3000
+i5-2467M 
+2/4
+1.6–2.3
+3
+32
++
++
+HD3000
+i5-2435M 
+2/4
+2.4–3
+3
+32
++
++
+HD3000
+i5-2430M 
+2/4
+2.4–3
+3
+32
++
++
+HD3000
+i5-2410M 
+2/4
+2.3–3
+3
+32
++
++
+HD3000
+ Intel Core i3 prosessorları. 2010-cu ildə FK-lar üçün nisbətən ucuz qiymətli Intel Core i3 prosessorları istehsal olunmağa başladı. Praktik olaraq bu Intel Core i5 prosessorunun özü idi. Lakin burada Intel Turbo Boost texnologiyasından istifadə olunmurdu və prosessorun nüvələrini “qovaraq” sürətini artırmağa icazə verir. Intel Core i3 prosessorunun əsas vəzifəsi köhnəlmiş Intel Core i2 və Intel Pentium (Intel Core 2 bazasında hazırlanmış) prosessorlarının yenisi ilə əvəz olunmasıdır. İkinci nəsil Intel Core i3 prosessorlarının kristalına qrafik GPU modulu (graphics processing unit – qrafik emal modulu) inteqrasiya edilmişdir. Bundan əlavə Intel Core i3 prosessorları L1 (hər nüvə üçün verilənlər və əmrlər daxil olmaqla 64 Kbayt), L2 (hər nüvə üçün 256 Kbayt) , L3 (bütün nüvələr üçün 4 Mbayt) səviyyəli keş yaddaşa və 2 nüvəyə malik ola bilər.
+Cədvəl 3-də ikinci nəsil Intel Core i3 prosessorunun texniki xarakteristikaları göstərilmişdir.
+
+Cədvəl  3. Intel Core i3 prosessorunun texniki xarakteristikaları
+Proses-sorun nömrəsi
+Nüvə/axın
+Takt tezli-yi, GHs
+Intel Smart Cache, Mbayt
+Kristalın ölçüsü, nm
+Intel Turbo Boost
+Intel Hyper-Threading
+Qrfik həllər Intel HD
+Masaüstü FK-lar üçün ikinci nəsil Intel Core i5
+i3-2100
+2/4
+3.1
+3
+32
+–
++
+HD2000
+i3-2100T 
+2/4
+2.5
+3
+32
+–
++
+HD2000
+i3-2102 
+2/4
+3.1
+3
+32
+–
++
+HD2000
+i3-2105 
+2/4
+3.1
+3
+32
+–
++
+HD3000
+i3-2120 
+2/4
+3.3
+3
+32
+–
++
+HD2000
+i3-2120T 
+2/4
+2.6
+3
+32
+–
++
+HD2000
+i3-2125 
+2/4
+3.3
+3
+32
+–
++
+HD3000
+i3-2130 
+2/4
+3.4
+3
+32
+–
++
+HD2000
+Mobil FK-lar üçün ikinci nəsil Intel Core i5
+i3-2310M 
+2/4
+2.1
+3
+32
+–
++
+HD3000
+i3-2312M 
+2/4
+2.1
+3
+32
+–
++
+HD3000
+i3-2330E 
+2/4
+2.2
+3
+32
+–
++
+HD3000
+i3-2330M 
+2/4
+2.2
+3
+32
+–
++
+HD3000
+i3-2350M 
+2/4
+2.3
+3
+32
+–
++
+HD3000
+i3-2357M 
+2/4
+1.3
+3
+32
+–
++
+HD3000
+i3-2367M 
+2/4
+1.4
+3
+32
+–
++
+HD3000
+INTEL prosessorlarının markalanması. Əvvəllər Intel firması prosessorların markalanması üçün model və takt tezliyindən istifadə edilirdi. Daha sonralar Intel firması prosessorların markalanması üçün üç rəqəmli ədədlərin kombinasiyasından (nömrəsindən) ibarət formadan istifadə olunmağa başlandı. Məsələn, 7xx, 5xx, 3xx və s. Belə ki, markalanmadakı ilk  rəqəm prosessorun hansı sinfə və nəslə aid olmasını, digər rəqəmlər isə onun daxil olduğu sinifdəki nömrəsini təyin edir (məs. Celeron D 366).
+Göründüyü kimi prosessorlar ailəsinin adlandırılması köhnə qayda ilə qalır. Məsələn, Pentium M, Celeron. Nömrə isə prosessorun xarakteristikalarını təyin edir. Bu xarakteristikalara prosessorun arxitekturası, keş yaddaşın həcmi, takt tezliyi, sistem şininin tezliyi və Intel firmasının digər texnologiyaları aid edilə bilər. 
+Prosessorun üzərindəki ən böyük rəqəm onun daha çox funksiyanı yerinə yetirə bilməsini bildirir. Qeyd etmək lazımdır ki, prosessorun markalanmasında böyük rəqəm hər hansı bir parametrin güclənməsini, digər parametr isə zəifləməsini təyin edir. Məsələn, nömrənin artması prosessorun xarici şin tezliyinin artmasını və ya keş yaddaşın həcminin güclənməsini göstərə bilər.
+Aşağıda INTEL prosessorunun markalanmasını oxumaq üçün şəkil verilmişdir. Şəklin üzərində 1, 2, 3 və 4 rəqəmləri (bu rəqəmlər kvadratların daxilində yerləşdirilmiş) göstərilmişdir. Həmin rəqəmlər Intel Core i7 3700K modelli prosessorun timsalında aşağıdakı parametrləri təyin edir (şəkil 4).
+
+Şək. 4. Intel prosessorunun markalanması
+	•	Prosessorun seriyası:
+	•	i7 – yüksək səviyyəli prosessorlar. INTEL-in bütün texnologiyalarını dəstəkləyir. 4 nüvəyə və L3 səviyyəli keş-yaddaşa malikdir;
+	•	i5 – orta səviyyəli prosessorlar. Bu seriyadan olan prosessorlar 2 və ya 4 nüvəli istehsal olunur. Hyper Threading, Virtualization Technology və Trusted Execution texnologiyalarını dəstəkləmir;
+	•	i3 – kiçik səviyyəli prosessorlar. Yalnız 2-nüvəli formada istehsal olunur. Digər prosessorlara nisbətən minimal L3 səviyyəli keş-yaddaşa malikdir. 
+	•	Prosessorların seriyasının nəsilləri. Burada hər bir nəsil aşağıdakı kimi öz kodlaşdırma təyinatına bölünür:
+	•	1-ci nəsil – Nehalem (2008) və Westmere (2010);
+	•	2-ci nəsil – Sandy Bridge (2011);
+	•	3-cü nəsil – Ivy Bridge (2012);
+	•	4-cü nəsil – Haswell (2013);
+	•	5-ci nəsil – Broadwell (2014-2015).
+	•	Seriyada prosessorun vəziyyəti. Prosessorun üzərindəki ən böyük rəqəm onun daha böyük takt tezliyinə malik olmasını göstərir. 
+	•	Prosessorun versiyası:
+	•	K – takt tezliyinin yüksəldilməsinə dəstək;
+	•	X – səmərəli (məhsuldar) prosessorlar;
+	•	M – mobil prosessorlar;
+	•	MX –ekstremal mobil prosessorlar;
+	•	MQ, QM – 4-nüvəli mobil prosessorlar;
+	•	HQ – yüksəkməhsuldarlı qrafik mobil prosessorlar ;
+	•	Q – 4-nüvəli prosessorlar;
+	•	P – sürəti avtomatik “qovmayan” prosessor;
+	•	S – məhsuldarlığa meylli və enerji sərfiyyatlı prosessor;
+	•	T –  yüksək  enerji effektli prosessor. Enerji sərfi azalmaqla yuxarı tezliyin əldə olunması;
+	•	L – enerji effektli prosessorlar və s.
+Son zamanlar Intel firması istehsal etdiyi prosessorların markalanması üçün dörd rəqəmli nömrələmə kombinasiyasından istifadə edir (şəkil 5). Prosessor ailəsilə uyğunluq təşkil edən bu nömrə prosessorun tam adını bildirir. Şəkildə göstərilən beş rəqəmli identifikator (prosessorun nömrəsi, T2600) prosessorun soyudulması üçün güc təlabatını və Intel prosessorlarının məhsuldarlığı ilə bağlı funksiyanı əks etdirir. Markalanmada istifadə olunan hərfi prefikslər (baxılan halda T, güc təlabatı 30-39 Vt təşkil edir və enerjiyə qənaət edən prosessordur) prosessorun öz-özünü soyutmaq üçün güc təlabatını (TDP, Termal Design Power) ifadə edir. İkinci nəsil Intel Core prosessorları üçün dörd rəqəmli nömrələmə üsulu tətbiq olunur.
+Prosessorun adı
+Prosessorun ticarət markası
+
+
+Prosessorun nömrəsi
+Prosessorun adı
+Prosessorun ticarət markası
+
+
+Prosessorun nömrəsi
+
+
+
+
+
+Şək. 5. İstilik təlabatına görə prosessorun adının formalaşdırılması
+Intel Core i3 prosessorları üçün hərfi prefikslərin izahı və güc təlabatları cədvəl 4-da göstərilmişdir. 
+    Cədvəl 4. Intel Core i3 prosessorları üçün hərfi prefikslər
+Hərfi prefiks
+TDP, Vt
+Qeyd
+QX
+–
+İfrat məhsuldarlı 4-nüvəli prosessor
+X
+–
+İfrat məhsuldarlı 2-nüvəli prosessor
+Q
+–
+Masaüstü FK-lar üçün  4-nüvəli prosessor
+E
+≥55
+Enerjiyə qənaət edən 4-nüvəli prosessor
+T
+30-39
+Enerjiyə qənaət edən prosessor
+P
+20-29
+Enerjiyə qənaət edən prosessor
+L
+12-19
+İstisna hallarda enerjiyə qənaət edən prosessor
+U
+<11.9
+Mobil FK-lar üçün kiçin enerji sərfli prosessor
+Qeyd etmək lazımdır ki, cədvəl  4-da göstərilən hərfi prefikslərin sayı dinamik xarakter daşıyır və hər il yeniləşir.
+ AMD firmasının prosessorları. Digər prosessor istehsalçısı olan American Micro Devices (AMD) firması öz məhsulları ilə FK bazarında aparıcı yeri tutur. AMD prosessorları Intel firmasının istehsal etdiyi prosessorun bir çox xüsusiyyətlərinə malikdir. 64-mərtəbəli prosessorlara Intel firtması tərəfindən keçid 2007-ci ildə başladığı halda, AMD firması artıq  bu keçidi 2003-cü ildə 64 mərtəbəli Athlon 64 prosessorlarında nümayiş etdirmişdi. 
+AMD prosesorları seriyasına 3 modifikasiya daxil olur: Athion XP, Athion 64 və funksiyaları azaldılmış Sempron. Lakin, onlar arasında fərq həddindən artıq böyükdür. Məsələn, Athion o biri 2 modeldən fərqli olaraq, həm böyük keş yaddaşa, həm də 64-mərtəbəli nüvəyə malik olur.
+Hal-hazırda AMD firmasının prosessorları üçün yeni və fərdi texnologiyalar hazırlanmaqda davam edir. Bu texnologiyalar Pentium və Core tipli prosessor arxitekturalarını təkrarlamırlar. AMD prosessorlar ailəsində modelindən asılı olaraq müxtəlif kombinasiyalarla bir çox müxtəlif texnologiyalar istifadə olunur. Həmin texnologiyalara aşağıdakılar aiddir:
+Hyper Transport (HT) texnologiyası – AMD firmasının müasir prosessorlarının əsas texnologiyalarından biridir. Bu texnologiyanın əsas ideyası prosessorun giriş-çıxış sistemində yaranan problemlərin aradan qaldırılmasıdır. AMD firması prosessorun şimal körpüsü ilə əlaqəsi üçün paralel şininin yerinə “nöqtə-nöqtə” tipinin ardıcıl şinindən istifadə etməyi təklif etdi. HT texnologiyasından istifadə sistemin ümumi məhsuldarlığını artırmağa, verilənlərin mübadiləsini sürətləndirməyə və prosessordan alınan cavab müddətini azaltmağa icazə verir. Texnologiyanın üstünlüyü ondadır ki, inteqrasiya edilmiş DDR yaddaş kontrolleri birbaşa prosessorun yaddaşına olan müraciəti tezləşdirir. 
+3DNow Professional texnologiyası – üçölçülü multimedia obyektləri ilə görülən işlər zamanı istifadə olunur. 
+AMD64 texnologiyası – 64-mərtəbəli hesablamalardan istifadə etməklə yanaşı, həm də mövcud proqram vasitələrilə uyğunluq təşkil etməyə şərait yaradır. AMD64 texnologiyasından istifadə edən eyni platformada 32-mərtəbəli proqramlar da problemsiz icra olunacaq. 
+EVP mühafizə texnologiyası. AMD firması virus hücumlarından mühafizə olunmaq və proqram təminatında səhvləri aradan qaldırmaq üçün yeni prosessorlarında EVP (Enhanced Virus Protection - viruslardan muhafizənin artırılması) adlanan mexanizm daxil etmişdir. Qeyd etmək lazımdır, EVP mexanizmi yalnız o zaman işləyir ki, əməliyyat sistemi bu texnologiyanı dəstəkləsin.
+AMD PowerNow texnologiyası – noutbuklarda prosessorun enerji sərfini və istiliyin ayrılmasını azaltmağa icazə verir.
+ 64-mərtəbəli AMD prosessorları. AMD prosessorlarına məxsus K8 və K10 nəsillərində “Hammer” və ya “x86-64” notasiyası ilə tanınan AMD64 arxitekturası istifadə olunur. Bu prosessorların əsas xüsusiyyəti 64-mərtəbəli verilənlərin emalı ilə bağlıdır. Məhsuldarlığın artırılması məqsədilə  64-mərtəbəli prosessorlarda registrlərin sayı 2 dəfə artırılıb. Prosessor istehsalçıları qeyd edir ki, 32-mərtəbəli prosessorlar üçün nəzərdə tutulmuş proqram təminatı yeni prosessorlarda (x86-64) işləyə bilər. 
+AMD64 prosessorlarında sistemin ümumi məhsuldarlığını artırmaq HT texnologiyası tətbiq olunub. Bundan başqa, HT sadəcə multiprosessorlu sistemləri yaratmağa, həmçinin istənilən sayda olan nüvələri vahid kristalda birləşdirməyə icazə verir (məs. AMD Opteron prosessoru). İnteqrasiya edilmiş DDR yaddaş kontrolleri, DDR2, DDR3-ə müraciət sürətini artırır və ləngimələri aradan qaldırır. Yaddaşla informasiya mübadiləsinin bu üsulla təşkili çoxproqramlı rejimlərin daha da operativ işləməsini təmin edir. Məsələn, şəkil 3.17-də AMD Athlon X2 (K8 nəsli) prosessorunun, şəkil 3.18-da isə AMD Phenom X4 (K10 nəsli) prosessorunun struktur sxemləri göstərilmişdir. 
+Bunlardan əlavə, cədvəl 5-də və cədvəl 6-da 64-mərtəbəli AMD modelli bəzi prosessorların texniki xarakteristikaları (modelin nömrəsi, tezliyi, keş yaddaşın ölçüsü və s.) göstərilmişdir.
+Yaddaş kontrolleri
+
+
+
+L2 keş yaddaşı
+
+1 nüvə
+
+
+
+L2 keş yaddaşı
+
+2 nüvə
+L1 keşi (verilən-
+lər)
+L1 keşi (əmrlər)
+
+
+ AMD64   
+  Nüvə 1
+
+
+ AMD64
+ Nüvə 2
+L1 keşi (verilən-
+lər)
+L1 keşi (əmrlər)
+Hyper Transport  şini
+Yaddaş kontrolleri
+
+
+
+L2 keş yaddaşı
+
+1 nüvə
+
+
+
+L2 keş yaddaşı
+
+2 nüvə
+L1 keşi (verilən-
+lər)
+L1 keşi (əmrlər)
+
+
+ AMD64   
+  Nüvə 1
+
+
+ AMD64
+ Nüvə 2
+L1 keşi (verilən-
+lər)
+L1 keşi (əmrlər)
+Hyper Transport  şini
+
+
+
+
+
+
+
+
+Şək. 6. AMD Athlon X2 prosessorunun struktur sxemiKeş L3
+İnterfeys
+Sorğular kommutatoru
+Yaddaş
+kontrolleri
+Yaddaş
+kontrolleri
+Nüvə 1
+Keş
+L2
+Nüvə 2
+Keş
+L2
+Nüvə 3
+Keş
+L2
+Nüvə 4
+Keş
+L2
+Keş L3
+İnterfeys
+Sorğular kommutatoru
+Yaddaş
+kontrolleri
+Yaddaş
+kontrolleri
+Nüvə 1
+Keş
+L2
+Nüvə 2
+Keş
+L2
+Nüvə 3
+Keş
+L2
+Nüvə 4
+Keş
+L2
+
+
+
+
+
+
+
+
+
+
+
+Şək. 7. AMD Phenom X4 prosessorunun struktur sxemi
+
+
+
+
+Cədvəl 5. AMD tipli prosessorların texniki xarakteristikaları
+Modelin nömrəsi
+Tezlik, QHs
+Keş L2, Mbayt
+Keş L3, Mbayt
+Soket
+İstilik-ayırma, Vt
+Texnologiya CMOS, nm
+Buldozer arxitekturalı AMD FX prosessoru
+FX 8150
+3,6/4,2
+8
+8
+AM3+
+125
+32 SOI
+FX 8120
+3,1/4,0
+8
+8
+AM3+
+125
+32 SOI
+FX 6100
+3,3/3,9
+6
+8
+AM3+
+95
+32 SOI
+FX 4100
+3,6/3,8
+4
+8
+AM3+
+95
+32 SOI
+AMD Phenom II X6 prosessoru
+1100T
+3,3
+3
+6
+AM3
+125
+45
+1090T
+3,2
+3
+6
+AM3
+125
+45
+1075T
+3,0
+3
+6
+AM3
+125
+45
+1065T
+2,9
+3
+6
+AM3
+95
+45
+1055T
+2,8
+3
+6
+AM3
+95-125
+45
+AMD Phenom II X4 prosessoru
+980
+3,7
+2
+6
+AM3
+125
+45
+975
+3,6
+2
+6
+AM3
+125
+45
+970
+3,5
+2
+6
+AM3
+125
+45
+965
+3,4
+2
+6
+AM3
+125-140
+45
+AMD Phenom II X2 prosessoru
+565
+3,4
+1
+4
+AM3
+80
+80
+560
+3,3
+1
+4
+AM3
+45
+45
+Cədvəl 6.  AMD FX prosessorunun texniki xarakteristikaları
+AMD FX prosessoru
+AMD64 texnologiyası
++
+Eyni zamanda 32/64 bitli hesablamalar
++
+Hər nüvə üçün L1 keş yaddaşı (əmrlər+verilənlər)
+128 Kbayt    (64  +  64 Kbayt)
+L2 keş yaddaşı  (hər nüvə üçün 1 Mbayt)
+8 / 6 / 4 Mbayt
+L3 keş yaddaşı  
+8 Mbayt
+Hyper Transport texnologiyası
++
+İnteqrasiya dilmiş DDR3 yaddaş kontrolleri
++
+Şin kontroller yaddaşı
+128 mərtəbə
+Dəstəklənən yaddaş tipi
+DDR3 1866-ya qədər
+Prosessordan sistemə ümumi buraxılma sürəti 
+37 Qbayt/s-ə qədər
+Texnoloji proses
+32 nm 
+Soket
+AM3+
+Hesablanmış istilik gücü
+125/95 Vt
+Cədvəl 3.10-da AMD FX prosessorunun Intel Core i5/i7 prosessoru ilə müqayisəli texniki xarakteristikaları göstərilmişdir.
+Cədvəl 7. AMD FX prosessorunun Intel Core i5/i7 ilə müqayisəsi
+AMD FX
+Intel Core i5/i7
+DDR3-1866-ya inteqrasiya
+DDR3-1833-ə inteqrasiya
+x86 arxitekturası üçün 8 nüvə
+x86 arxitekturası üçün 4 nüvə
+L2 səviyyəli keş yaddaş üçün 8 Mb
+L2 səviyyəli keş yaddaş üçün 1 Mb
+L3 səviyyəli keş yaddaş üçün 8 Mbayt
+L3 səviyyəli keş yaddaş üçün 8 Mbayt
+Əsas takt tezliyi 3.6 QHs
+Əsas takt tezliyi 3.4 QHs
+Əsas takt tezliyi 4.2 QHs
+Əsas takt tezliyi 3.8 QHs
++600 MHs Turbo rejimi
++400 MHs Turbo rejimi
+ISA üçün genişləndirilmiş arxitektu-ra: SSE3, SSE4, AES, AVX Plus, FMA4, XOP
+ISA üçün genişləndirilmiş arxitektu-ra: SSE3, SSE4, AES, AVX
+AMD CrossFireX texnologiyasının dəstəyi: 2x16
+AMD CrossFireX texnologiyasının dəstəyi: 2x8
+ AMD prosessorlarının markalanması. İndi isə AMD prosessorlarının markalanmasına baxaq. Şəkil 8-un a bəndində göstərilən hissəyə nəzar salaq. Birinci halda videoplata inteqrasiya edilmişdir. Şəkilin üzərində 1, 2, 3 və 4 rəqəmləri (bu rəqəmlər kvadratın daxilində yerləşdirilmişdir) göstərilmişdir. Həmin rəqəmlər AMD modelli prosessorun timsalında aşağıdakı parametrləri təyin edir. 
+	•	Seriyanın adı.
+	•	Prosesordakı nüvələrin sayı.
+	•	Arxitekturası:
+	•	2 – Bulldozer;
+	•	3 – Piledriver;
+	•	Prosessor ailəsində modelin vəziyyəti əsasən tezlikdən asılıdır. Burada ən böyük rəqəm daha sürətli işləyən prosessoru xarakterizə edir.
+
+
+a) AMD FX
+b) AMD A10
+   Şək. 8. AMD prosessorlarının markalanması
+Şəkil 8-un b variantında isə videoplatanın prosessora inteqrasiya edilməmiş vəziyyətinin markalanması qaydası verilmişdir. Markalanmanı anlamaq üçün şəklin üzərində 1, 2 və 3 rəqəmləri (bu rəqəmlər kvadratın daxilində yerləşdirilmişdir) göstərilmişdir.
+	•	Sürətli prosessor. Bu nüvələrin sayı və videokartın prosessora inteqrə edilməsilə digərlərindən fərqlənir.
+	•	A4 - 2 nüvə;
+	•	A6 - 2 nüvə;
+	•	A8 - 4 nüvə;
+	•	A10 - 4 nüvə.
+	•	Nəsillər.
+	•	Seriyada göstərilən model, əsasən prosessorun takt tezliyindən asılıdır. Markalanmada göstərilən sonuncu rəqəm nə qədər böyükdürsə (baxılan halda 8), prosessor bir o qədər sürətli sayılır. 
+Soketlər
+Soket – prosessorun quraşdırılması üçün sistem platası üzərində yerləşən birləşdiricidir. Bəzən onu prosessorun interfeysi, bəzən də sıfır qüvvə ilə mikrosxemlərin quraşdırılması üçün istifadə olunan birləşdirici (Zero Insertion Force, ZIF) də adlandırırlar. Soketlərin markalanmasında istifadə olunan rəqəmlər (məsələn, Soket370) onda olan kontaktların (pinlərin) sayını göstərir. Yaxın keçmişdə FK-larda geniş tətbiq edilmiş və Pentium prosessorları üçün nəzərdə tutulmuş Soket7 birləşdiricisidir (Pentium III üçün Soket370). Qeyd etmək lazımdır ki, Soket7 birləşdiricisinin köməyilə Intel və AMD proses-sorlarının quraşdırılması üçün mümkün sayılırdı. Bir zamanlar prosessorların istehsalı xüsusi slotlar üzərində quraşdırılmaqla (montaj edilməsi) həyata keçirilirdi. Intel proses-sorları üçün bu birləşdirici – Slot1, AMD prosesorları üçün bu birləşdirici – Slot A adlandırılırdı.
+Pentium IV prosessorlarının quraşdırılması üçün nəzərdə tutulan Socket 423 birləşdiricisi ən erkən yaranan modeldir. Daha sonralar Pentium IV prosessorlarının quraşdırılması üçün Socket 478 (mPGA478) tipli birləşdiricidən istifadə olunmağa başladı (şəkil 9).
+
+Şək. 9. Pentium IV prosessoru üçün
+Socket 478 (mPGA478) tipli soket
+Intel Core 2 və Pentium IV prosessorlarının axırıncı versiyaları Socket LGA 775 tipli birləşdiricinin köməyilə sistem platasına quraşdırılır (şəkil 10).
+
+Şək. 10. Intel prosessoru üçün
+Socket LGA 775 tipli soket
+Intel Core i7 prosessorlarında eyni konstruksiya istifadə olunur və Soket LGA 1366 adlanır. Burada kontaktların sayı nəzərəçarpacaq dərəcədə artırılmışdır. 2009-cu ildə Intel Core i5/i3 prosessorları üçün  LGA 1156 soketi təklif edilmişdir. 2011-ci ildə ikinci nəsil Intel Core i7/i5/i3 prosessorları üçün LGA 1155 tipli soketlərin istehsalına başlanmışdır.
+Athlon prosessorları Socket 462 tipli soketdə quraşdırılır (Soket A). Opteron və Athlon64 prosessorları üçün Socket 940 işlənmişdir. Şəkil 4.25-də AMD64 prosessorları üçün sol tərəfdə Soket 940, sağ tərəfdə isə AM2 tipli soket göstərilmişdir. Onların fərqini anlamaq üçün üzərindəki yazılara baxmaq lazımdır.
+2006-cı ildə DDR2 yaddaş moduluna malik olan ikinüvəli prosessorlar (AMD Athlon 64 FX və AMD Athlon 64 X2) üçün Soket AM2-dən istifadə olunmağa başlandı. Bu soketlərin əvvəlki modellərdən fərqi açarların yerləşdirilməsi və əlavə kontaktların əlavə olunması ilə əlaqədardır. DDR3 yaddaş modulu ilə işləyən prosessor üçün Soket AM2+ nəzərdə tutulub. Hal-hazırda satışda praktiki olaraq prosessorlar üçün Socket AM2/AM2+/АМ3 birləşdiriciləri təklif olunur. AMD A-series prosessorları üçün FM-1 kimi markalanmış soketi satışa buraxılmışdır.
+
+
+Şək 11. AMD6419 prosessoru üçün
+Soket940 və AM2 tipli soketlər
+Çox güclü prosessorlar üçün (məsələn, Opteron və AMD Athlon 64 FX) 1027 kontaktlı Soket F adlanan birləşdirici nəzərdə tutulmuşdur.
+Soketdə quraşdırılacaq prosessorun tipi sistem platasının aşağı-dakı xüsusiyyətləri ilə təyin edilir:
+	•	soketin tipi;
+	•	prosessor üçün tələb olunan qida gərginliyinin təyin edilməsi;
+	•	prosessorun tələb etdiyi halda iki tərəfli qida gərginliyinin olması;
+	•	prosessor tərəfindən BIOS-un müvafiq versiyasının dəstək-lənməsi.
+İndi isə prosessorun soket üzərinə hansı qayda ilə yerləşdirilməsinə baxaq. Prosessor istehsalçıları (80386DX prosessorlardan başlayaraq) prosessorun PGA (Pin Grid Array) tipli soket üzərində şəkil 
+11-da göstərilən qayda üzrə yerləşdirilməsinə nail oldu. Göründüyü kimi, sxemin çıxıntıları oxlar (ştırlar) şəklindədir. Belə olan halda inteqral sxem kvadrat və ya düzbucaqlı korpus üzərinə perpendikulyar istiqamətdə yerləşdirilir. Bu tip soketlərin modifikasiyaları müxtəlif prosessorlarda istifadə olunur. Yalnız prosessorun texniki və fiziki parametrləri artırıldıqda, bu zaman korpusun ölçüləri, çıxıntıların sayı, həmçinin prosessor daxili komponentlərin inteqrasiya səviyyələri dəyişdirilə bilər. Bir sıra köhnə prosessor sistemlərində çıxıntıların sayı ilə korpusun birləşdiriciləri arasında uyğunsuzluq yaranır. Belə uyğunsuzluğu aradan qaldırmaq üçün ZIF tipli birləşdiricilərdən istifadə olunur.
+Şəkil 12-da göstərilən prosessor sistem platasının sol tərəfindədir. Prosessor metal (aliminium) materialdan hazırlanmış radiator üzərində yerləşdirilir. Həmin radiator prosessorda əmələ gələn istiliyin udulmasını təmin edir. Belə olan halda prosessorun soyutma rejimi həyata keçirilir.
+
+
+Şək. 12. PGA tipli korpusda prosessorun yerləşdirilməsi
+
+

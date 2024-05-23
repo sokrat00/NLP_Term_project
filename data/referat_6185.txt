@@ -1,0 +1,141 @@
+Azərbaycan  Respublikası  Təhsil  Nazirliyi
+
+Təhsil   İnstitutu
+Peşə ixtisas təhsili şöbəsi
+
+
+
+
+         İlk peşə-ixtisas təhsili müəssisələri üçün
+“ Kompüter üzrə operator, dizayner” ixtisası üzrə
+“Sistem proqram təminatı” fənninin
+NÜMUNƏVİ TƏDRİS PROQRAMI
+          
+
+
+
+
+
+
+
+
+
+
+Bakı – 2017
+
+
+
+
+İzahat vərəqi
+Kompüterin proqram təminatı (PT) – təlimatlar yığımından ibarət olub, kompüteri idarə edir, lazım olan məsələləri həll edir və yerinə yetirdikləri funksiyalara görə sistem proqram təminatına və tətbiqi proqram təminatına bölünür.
+Tətbiqi proqram təminatı istifadəçinin hər hansı məsələni həll etmək məqsədilə yaradılır və sistem proqramlarının idarəsi altında işləyir. 
+Sistem proqram təminatı (SPT) kompüterdə informasiyanın emalı prosesinin təşkili ilə yanaşı tətbiqi proqramlar üçün normal mühiti təmin edir. Sistem proqram təminatı kompüterin aparat vasitələri ilə sıx əlaqədə olduğundan, bəzən onu kompüterin bir hissəsi də hesab edirlər. Sistem proqram təminatı əməliyyat sistemlərinə, servis proqramlarına, proqramlaşdırma sistemlərinə və texniki xidmət proqramlarına ayrılır.
+“Sistem proqram təminatı” fənni   “ 030219 ” “ İnformasiya – kommuni
+kasiya texnologiyası və hesablama texnikasının    təmiri və servis xidməti ”  qrupuna daxil olan “ Kompüter üzrə operator, dizayner” ixtisasında  tədris edilir.
+  “Sistem proqram təminatı”  fənni tədris planına uyğun olaraq;
+	•	1 illik təhsil müddətində 45 saat (I yarım ildə - 30saat, II yarım ildə - 15 saat);
+	•	2 illik təhsil müddətində 23 saat (I kurs II yarım ildə - 23 saat)
+	•	3 illik təhsil müddətində 38 saat (I kurs (I yarım ildə - 15 saat, II yarım ildə II yarım ildə - 23 saat) həcmində tədris olunması planlaşdırılmışdır.
+ 	
+
+
+
+
+
+  “Sistem proqram təminatı”  fənninin mövzu planı və saatların bölgüsü
+S/S
+Mövzuların  adı
+Təhsil müddəti
+saatlar  üzrə
+
+
+1 il
+2 il
+3 il
+1
+2
+3
+4
+5
+
+Mövzu:1 Giriş. Kompüterin proqram təminatı haqqında əsas məlumatlar 
+2
+2
+2
+1
+Mövzu:2 Əməliyyat sistemləri
+13
+6
+10
+2
+Mövzu:3 Servis proqramları
+12
+6
+10
+3
+Mövzu:4 Proqramlaşdırma sistemləri
+6
+3
+6
+4
+Mövzu:5 Texniki xidmət proqramları
+12
+6
+10
+
+Cəmi:
+45
+23
+38
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Sistem proqram təminatı”  fənninin mövzuları
+Mövzu:1 Giriş.
+Kompüterin proqram təminatı haqqında əsas məlumatlar. Sistem proqram təminatı.
+
+Mövzu:2 Əməliyyat sistemləri (ƏS)  
+Birməsələli ƏS. MS DOS əməliyyat sistemləri. Çoxməsələli ƏS. UNIX, OS/2, Windows 95/98/2000/ NT, XP, Vista, Windows 7 və s. Şəbəkə ƏS. Novell Net Ware, Windows NT, Banyan Vines, İBM LAN, UNİX, Solaris və s.Windows 7-də idarəetmə vasitələri ( siçan, klaviatura). Sistem interfeysi, ışçi masası (pəncərə, qovluq, kontekst menyusu). Start(пуск (başlat)) menyusunun strukturu və istifadəsi (məsələlər (tapşırıqlar) paneli, xəbərdarlıq etmə paneli (tray), tapşırıq meneceri). Windows 7- də fayllar və qovluqlarla əməliyyatlar (bələdçi rejimi, nişanların növləri və çeşidlənməsi, kорзина (səbət)) qovluğu). Windows 7 əməliyyat sistemində çox istifadəçili rejimdə işləmə (yeni istifadəçilərin yaradılması, qeydiyyat vəsiqəsinin, interfeysin tənzimlənməsi, fərdiləşdirmə, ekran temləri (mövzuları) yaradılması. İşçi masada qadjetlər (mini proqramlar) və nişanlar). Windows 7 əməliyyat sistemində kompüterin tənzimlənməsi (əmr sətri rejimi, qurğuların dispetçeri). Windows 7- də kitabxanalar (istifadəçi kitabxanaları, sənədlər, video, foto, musiqi, fərdi qovluqlar və kitabxanalar).
+
+Mövzu:3 Servis proqramları   
+     Servis proqramlarının əsas funksiyaları:  İstifadəçi interfeysinin təkmilləşdirilməsi; verilənlərin mühafizəsi; verilənlərin bərpası; xarici yaddaşla əməli yaddaş arasındakı informasiya mübadiləsinin sürətləndirilməsi; arxivləşdirmək - arxivi açmaq;  kompüter virusları ilə mübarizə. Örtük proqramlar (Nortan Commander). Utilitlərin funksiyaları: disklərə xidmət etmək (formatlaşdırma və s.); informasiya mühafizəsinin təmini, nasazlıq hallarında bərpanın mümkünlüyü və s.; fayl və kataloqlara xidmət etmək; arxivlərin yaradılması və yeniləşdirilməsi; kompüter resusları, disk sahəsi, proqramların ƏYQ – də paylanması haqqında informasiyanın verilməsi; müxtəlif rejim və formatlarda mətn və digər faylların çapı; kompüteri viruslardan mühafizə. Antivirus proqram vasitələri. Virusların təsnif edilməsi: yerləşdiyi mühitə görə; yerləşdiyi mühitə yoluxma üsuluna görə; aktivləşmə üsuluna görə; desktruktiv imkanlarına görə; alqoritimin xüsusiyyətlərinə görə. Fayllı viruslar, yükləyici viruslar və şəbəkəli viruslar olur: Antivirus proqramların tipləri: filtr və ya keşikçi; detektorlar; həkimlər və ya faqi; müfəttişlər; immunizatorlar və ya vaksinlər.
+
+Mövzu:4 Proqramlaşdırma sistemləri   
+Maşınyönlü sistemlər. Assemblər dili (Makroəmrlər). Proseduryönlü sistemlər. Alqoritmik dillər,  Prosedur dilləri, Direktiv dillər. Prosedur yönlü dillərin şərti olaraq  qruplara ayrılması:  Elmi-texniki məsələlərin proqramlaşdırması üçün dillər: ALDOL, FORHAN, BASIC, PASCAL, C və s. İqtisadi məsələlərin kodlaşması üçün dillər: KOBOL, PL-1. Texnoloji prosseslərin idarəetmə alqoritmlərinin və modelləşdirmə məsələlərini proqramlaşması üçün dillər: ART, S-Simula. İnformasiya-məntiq məsələlərinin həlli üçün dillər: LIST, FRL. Problemyönlü sistemlər. Prolog dili. Köməkçi sistemlər. Translyatorların növləri. Interpritator.  Kompilyator. Assembler.
+
+Mövzu:5 Texniki xidmət proqramları  
+Disklərin yoxlanılması. Disklərin defraqmentasiyası. Disklərin təmizlənməsi.  Diskin formatlaşmasi. Arxivləşdirmə proqramı.  Windows sisteminin bərpası
+
+
+
+
+
+
+
+Ədəbiyyat
+1. Kərimov S.Q., Həbibullayev S.B., İbrahimzadə T.İ.  “İnformatika” Dərs vəsaiti.  Bakı,2009
+2.  Xəlilov.M.S   “İnformatika” Dərs vəsaiti.  Bakı,2009
+3. Rüstəmov Ə.M    “İnformatika”   Bakı,2010
+4. İnternet vasitəsilə alınmış materiallar
+5. www.informatika.tr
+6. www.kitab.az
+
+
+
+
+
+

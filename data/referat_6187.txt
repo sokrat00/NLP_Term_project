@@ -1,0 +1,288 @@
+
+Azərbaycan  Respublikası  Təhsil  Nazirliyi
+
+Təhsil  İnstitutu
+Peşə ixtisas təhsili şöbəsi
+
+
+
+
+
+İlk peşə-ixtisas təhsili müəssisələri üçün
+                              “Kompüter üzrə operator” ixtisası üzrə
+                             “İstehsalat təlimi ” fənninin
+                              NÜMUNƏVİ TƏDRİS PROQRAMI
+          
+
+
+
+
+
+
+
+Bakı – 2017                
+                        
+                                         İzahat vərəqi
+
+Bu proqram peşə məktəbi və peşə litseylərində “Kompüter üzrə operator” ixtisası üçün kadrları hazırlamaq məqsədi ilə tərtib edilmişdir. Kursun keçirilməsi bu sahədə tələbələrin biliklərinin sistemləşdirilməsinə və möhkəmlən
+dirilməsinə xidmət edir. Kursun mənimsənilməsi nəticəsində tələbələr kompüterlərin parametrlərinə uyğun əməliyyat sistemlərinin düzgün seçilib yüklənməsini  (format olunmasını), internetlə işləməyi, virusların təmizlənməsini, informasiyanın qorunmasını, təsadüfən silinmiş, itmiş məlumatların bərpa olunmasını, faylların arxivləşdirilməsini, kompüterlərin  ləng işləmə səbəbinin aradan qaldırılmasını, periferiya qurğularından istifadə qaydalarını və tətbiqini bacarmalıdırlar.
+“İstehsalat təlimi ”   tədris planına uyğun olaraq,  1 illik təhsil müddətində -385 saat, 2 illik təhsil müddətində -812 saat; 3 illik təhsil müddətində -938 saat həcmində tədris olunması planlaşdırılmışdır. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“İstehsalat təlimi” fənninin mövzu planı və saatların bölgüsü
+S/S
+Mövzuların  adı
+Təhsil müddəti
+saatlar  üzrə
+
+
+1 il
+2 il
+3 il
+1
+2
+3
+4
+5
+1
+Mövzu: 1 Giriş. Kompüterin əsas və əlavə qurğuları ilə tanışlıq, onlardan istifadə qaydalarının öyrənilməsi
+42
+98
+112
+
+Giriş. Klaviaturanın, mausun və monitorların   növləri, quruluşu, iş prinsipi
+
+
+
+
+Skanerlərin, printerlərin və plotterlərin növləri, quruluşu, iş prinsipi 
+
+
+
+
+Modemlərin, strimmer( maqnit lentlər)-lərin , fləş yaddaşların,  memorykart qurğularının    növləri, quruluşu, iş prinsipi
+
+
+
+2
+Mövzu: 2 Windows 7  əməliyyat sistemi haqqında əsas məlumatlar 
+112
+210
+224
+
+Windows 7-də idarəetmə vasitələri ( siçan, klaviatura). Sistem interfeysi, ışçi masası (pəncərə, qovluq, kontekst menyusu)
+
+
+
+
+Start(пуск (başlat)) menyusunun strukturu və istifadəsi (məsələlər (tapşırıqlar) paneli, xəbərdarlıq etmə paneli (tray), tapşırıq meneceri)
+
+
+
+
+Windows 7- də fayllar və qovluqlarla əməliyyatlar(bələdçi rejimi, nişanların növləri və çeşidlənməsi, kорзина (səbət)) qovluğu)
+
+
+
+
+Windows 7 əməliyyat sistemində çox istifadəçili rejimdə işləmə (yeni istifadəçilərin yaradılması, qeydiyyat vəsiqəsinin, interfeysin tənzimlənməsi, fərdiləşdirmə, ekran temləri (mövzuları) yaradılması
+
+
+
+
+İşçi masada qadjetlər (mini proqramlar) və nişanlar)
+
+
+
+
+Windows 7 əməliyyat sistemində kompüterin tənzimlənməsi (əmr sətri rejimi, qurğuların dispetçeri)
+
+
+
+
+Windows 7- də kitabxanalar (istifadəçi kitabxanaları: sənədlər, video, foto, musiqi, fərdi qovluqlar və kitabxanalar)
+
+
+
+
+Standart proqramlar (Calculator. Notepad. WordPad. Paint. Windows Movie Maker .Windows Media Player 
+
+
+
+
+Mozilla Firefox. Microsoft İnternet Explorer. Elektron poçtu (E-Mail), məsələn,  MS Outlook. 
+
+
+
+3
+Mövzu: 3 Microsoft Word - 2013  mətn redaktoru
+49
+105
+119
+
+Microcoft Word mətn redaktorunda, mətnin daxil edilməsi  redaktəsi, sənədlərlə işləmək
+
+
+
+
+Microcoft Word mətn redaktorunda mətnin formatlaşdırılması, mətnə  əlavələr edilməsi, ekran görnüşünü dəyişdirilməsi
+
+
+
+
+Microcoft Word mətn redaktorunda cədvəllərlə işləmək
+
+
+
+
+Microcoft Word mətn redaktorunda qrafika
+
+
+
+4
+Mövzu: 4 Microsoft Excel - 2013 cədvəl
+redaktoru
+49
+98
+126
+
+Microsoft Excel  cədvəl redaktorunda xanalar və işçi vərəqlər, verilənlərin formatları
+
+
+
+
+Microsoft Excel  cədvəl redaktorunda  funksiyalar
+
+
+
+
+Microsoft Excel  cədvəl redaktorunda  siyahılarla iş, diaqramlar və Excel kitabının çap edilməsi
+
+
+
+5
+Mövzu: 5 Microsoft Access-2013 Veriılənlər bazasının idarəetmə sistemləri
+35
+91
+105
+
+Microsoft Access-2013 proqramında  cədvəllərin yaradılması
+
+
+
+
+Microsoft Access-2013 proqramında   sorğuların hazırlanması
+
+
+
+
+Microsoft Access-2013 proqramında   formaların hazırlanması, hesabatların hazırlanması və çapı
+
+
+
+
+Microsoft Access-2013 proqramında   
+
+
+
+6
+Mövzu: 6 Microsoft  Powerpoint – 2013
+49
+105
+126
+
+PowerPoint-2013 proqramında təqdimatların hazırlanması
+
+
+
+
+PowerPoint-2013 proqramında  təqdimatların animasiyası  ( hərəkətə gətirilməsi ), slaydların nümayişi
+
+
+
+7
+Mövzu: 7  Microsoft Publisher – 2013
+Microsoft Publisher proqramı ilə tanışlıq. İnformasiya bülleteninə mətnin daxil edilməsi. İnformasiya bukletinin və vizit kartının yaradılması. Microsoft Publisher proqramında veb-saytların yaradılması. Veb-sayt üzərində iş
+49
+105
+126
+
+Cəmi:
+385
+812
+938
+
+
+
+
+“İstehsalat təlimi” fənninin mövzuları
+
+Mövzu: 1 Giriş       Kompüterin əsas və əlavə qurğuları ilə tanışlıq, onlardan istifadə qaydalarının öyrənilməsi    
+ 
+Klaviaturanın quruluşu və iş prinsipi, Mausun quruluşu və iş prinsipi, Monitorların əsas komponentləri, parametrləri və növləri, Skanerin quruluşu, iş prinsipi və növləri, Printerlərin  quruluşu, iş prinsipi və növləri, Plotterlərin quruluşu, iş prinsipi və növləri , Səs ucaldıcısı (səs kolonkası)-nın quruluşu, iş prinsipi və növləri, Modemlərin  parametrləri, iş prinsipi və növləri, Strimer( Maqnit lentlər), Fləş yaddaş,  MemoryKart qurğularının   quruluşu və iş prinsipi.
+
+Mövzu: 2 Windows 7  əməliyyat sistemi haqqında əsas məlumatlar                                      
+
+Windows 7-də idarəetmə vasitələri ( siçan, klaviatura), sistem interfeysi, ışçi masası (pəncərə. qovluq, kontekst menyusu), start(пуск (başlat)) menyusunun strukturu və istifadəsi (məsələlər (tapşırıqlar) paneli, xəbərdarlıq etmə paneli (tray), tapşırıq meneceri), windows 7- də fayllar və qovluqlarla əməliyyatlar(bələdçi rejimi, nişanların növləri və çeşidlənməsi, kорзина (səbət)) qovluğu), windows 7 əməliyyat sistemində çox istifadəçili rejimdə işləmə (yeni istifadəçilərin yaradılması, qeydiyyat vəsiqəsinin tənzimlənməsi), windows 7 sisteminin tənzimlənməsi (interfeysin tənzimlənməsi, fərdiləşdirmə, ekran temləri (mövzuları), işçi masada qadjetlər (mini proqramlar) və nişanlar), windows 7 əməliyyat sistemində kompüterin tənzimlənməsi (əmr sətri rejimi, qurğuların dispetçeri), windows 7- də kitabxanalar (istifadəçi kitabxanaları: sənədlər, video, foto, musiqi, fərdi qovluqlar və kitabxanalar). Standart proqramlar (Calculator. Notepad. WordPad. Paint. Windows Movie Maker .Windows Media Player. Mozilla Firefox. Microsoft İnternet Explorer. Elektron poçtu (E-Mail), məsələn,  MS Outlook. 
+
+
+
+
+Mövzu: 3 Microsoft Word - 2013  mətn redaktoru      
+
+Microcoft Word mətn redaktorunda  sənədlərlə işləmək, mətnin daxil edilməsi, redaktəsi, formatlaşdırılması, əlavələr edilməsi, ekran görnüşünü dəyişdirilməsi, cədvəllərlə, şəkillərlə işləmək. Word-də qrafika
+
+Mövzu: 4 Microsoft Excel - 2013 cədvəl redaktoru  
+
+Microsoft Excel  cədvəl redaktorunda xanalar və işçi vərəqlər, verilənlərin formatları, funksiyalar, siyahılarla iş, diaqramlar və Excel kitabının çap edilməsi.
+
+	Mövzu: 5 Microsoft Access-2013 Veriılənlər bazasının idarəetmə sistemləri      
+
+Microsoft Access-2013 proqramında  cədvəllərin yaradılması, sorğuların hazırlanması, formaların hazırlanması, hesabatların hazırlanması və çapı.
+
+Mövzu: 6 Microsoft  Powerpoint – 2013   
+
+PowerPoint-2013 proqramında təqdimatların hazırlanması, təqdimatların animasiyası ( hərəkətə gətirilməsi ), slaydların nümayişi
+
+Mövzu: 7 Microsoft Publisher - 2013
+Microsoft Publisher proqramı ilə tanışlıq. İnformasiya bülleteninə mətnin daxil edilməsi. İnformasiya bukletinin və vizit kartının yaradılması. Microsoft Publisher proqramında veb-saytların yaradılması. Veb-sayt üzərində iş.
+
+
+
+
+
+
+
+
+Ədəbiyyat
+1. Əli Abbasov, Mətləb Əlizadə, Etibar  Seyidzadə,  Mahilə Salmanova 
+“ İnformatika və kompüterləşmənin əsasları ” Dərslik`Bakı, 2005
+2. Kərimov S. Q , Həbibullayev S. B , İbrahimzadə T. İ ”İnformatika”
+Ali məktəblər üçün dərslik  Bakı , 2009
+3. Cəfərov N. D , Rəhimova N. Ə  ” İnformatika üzrə praktikum ”  , Dərs vəsaiti Bakı , 2003
+4. Babək Abbasov “ Microsoft Access Verilənlər Bazasının İdarəetmə Sistemi” Dərslik`Bakı, 2010
+5. Rüstəmov Ə.M  ”İnformatika”
+6. Teymur  Fərziyev  ” İnformatika ”  Magistraturaya hazırlaşanlar üçün vəsait Bakı , 2012
+7. Nizami Cəfərov, Nazilə Rəhimova ” İnformatika üzrə praktikum ” Ali məktəblər üçün dərslik  Bakı , 2009
+8. Kərimov S. Q , Vəliyev N. N , Cəfərov N. D.  ” Verilənlər bazası və onun idarəetmə sistemləri fənni üzrə labarotoriya işləri ”  Bakı , 1997
+9. Mətləb Əlizadə, Bəşarət Qurbanov,Sevda Hacızadə  “ Kompüter qrafikası ”
+10. Etibar Seyidzadə , Mətləb Əlizadə “ Corel Draw 12 ”
+11. İnternet vasitəsilə alınmış materiallar
+

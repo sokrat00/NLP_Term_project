@@ -1,0 +1,93 @@
+                                              Onlayn Ensiklopediyalar
+Plan:
+Giriş
+Nəzəri hissə
+Nəticə 
+Ədəbiyyat
+
+ İnformasiyanın növündən asılı olmayaraq axtarıldığı vəsaitin dəqiq və etibarlı olması ən vacib şərtdir. Bu səbəbdən də informasiya axtarışı zamanı müraciət olunan ən böyük mənbə ensiklopediyalardır. Ensiklopediyalar isə sorğu kitabı olub insan biliyinin bütün sahələrini ardıcıl şəkildə və ətraflı əhatə edirlər.
+ Elm və texnologiyada müşahidə olunan sürətli inkişaf real cəmiyyətin virtual cəmiyyətlə əvəz olunmasına gətirib çıxarır. Bu əvəzlənmə nəinki digər sahələrə həmçinin informasiya axtarışına da təsir edir. İnformasiyanın internet üzərindən axtarışı üçün onlayn ensiklopediyalardan istifadə olunur.
+İnternet üzərindən pulsuz bir ensiklopediya yaratmaq fikri Inerpedia tərəfindən 1994-cü ildə təklif etmişdir, təklifdə hər kəsin material qatqı edəbiləcəyi qeyd olunmuşdu. Onlayn ensiklopediyalara nümunə olaraq aşağıdakıları qeyd etmək olar:
+Vikipediya(Wikipedia) – ümumi İnternet vasitəsilə azad yayımlanan ensiklopediyadır və dünyanın bir çox dillərində viki texnologiyasının tətbiq edilməsi nəticəsində könüllü istifadəçilər tərəfindən yaradılır. Wiki havay dilində “nə qədər mümkünsə daha tez” mənasını verir. Məhz yerli sakinlər Qonolulu aeroportundan şəhərə gedən avtobusları belə adlandırırlar. Viki texnologiyası əsasında qurulan virtual ensiklopediya bir axtarış sistemi kimi istifadəçilərin sorğuları əsasında tez bir zamanda informasiya xidməti göstərmək məqsədini daşıyır. Sistemdə verilən informasiyalar konkret olmaqla, yalnız hər hansı obyekt haqqında qısa informasiya verilir.
+Vikipediya virtual ensiklopediyası 15 yanvar 2001-ci ildə fəaliyyətə başlamışdır. Onun yaradıcıları Oqayo universitetinin fəlsəfə doktoru Larri Sanqer (Larry Sanger) və amerikalı sahibkar Cimmi Uelsdir (Jimmy Wales). Onlar əvvəlcə ―Nupedia‖ İnternet ensiklopediyasını yaratdılar. Bu virtual ensiklopediya öz sahəsinin mütəxəssisləri olan könüllü müəlliflər tərəfindən yazılırdı. Lakin iş uzanırdı, məqalələrin sayı isə yüzdən də az idi və Senqerlə Uels ikinci layihəni – Vikipediyanı buraxmaq qərarına gəldilər. Onlar fəlsəfəsi tamamilə fərqli olan, biliklərini paylaşan insanlar sayəsində meydana gələcək, dünyanın ən dolğun on-line ensiklopediyasını yaratmaq istəyirdilər. Bu təşəbbüs özünü doğrultmuş və Vikipediyanı dünyanın ən populyar 10 saytı sırasına daxil etmişdir. 
+Viki proqramının köməyi ilə yaradılan ensiklopediya sayta daxil olan hər bir kəsə istənilən informasiyanı dəyişmək imkanı verməklə, bu dəyişikliyi digər İnternet istifadəçilərində görünməsini təmin edir.
+Vikipediya(Wikimedia Foundation) ― qeyri-hökumət təşkilatı tərəfindən yaradılan İnternet ensiklopediyasıdır.
+Vikipediyanın yaradıcılarından biri olan Cimmi Uels deyir: “Mən Vikipediyada çoxlu sayda ―ağ ləkələrin olduğu vaxtı xatırlayıram və o zamanlar istifadəçilər bir çox vacib mövzular haqqında hər-hansı informasiyanı tapa bilmirdilər. İndi isə bizdə 2,4 mln.-dan artıq (ingilis dili bölməsində) müxtəlif mövzulara aid materiallar vardır, lakin görüləsi işlər hələ çoxdur: çoxlu sayda məqalələri redaktə etmək lazımdır və məhdud informasiyaya malik mövzuları yaddan çıxarmaq olmaz”. Vikipediyanın əhəmiyyətində danışarkən ilk növbədə nəzərə alınmalıdır ki:
+1. Vikipediya müxtəlif dillərə malik olduğundan, məqalələrə hipermətnlər daxil edildiyindən, hər kəs virtual ensiklopediyanın təşkilində iştirak edə bilər. Hər bir məqalə digər dillərdə analoqa malik olduğundan beynəlxalq istinadlardan istifadə etməklə onlara əsaslanmaq mümkündür. 
+2. Vikipediyada məqalələr azad istifadəyə və düzəlişə malikdirlər. Məqalələr GNU FDL (http://www.gnu.org/licenses/fdl.html) lisenziyası altında nəşr olunduqlarından, bu məqalələrdən götürülmüş hər-hansı mətn də həmin lisenziyaya malik olmalıdır. 
+3. Vikipediyada müəyyən edilmiş «neytral mövqe» qaydası hadisələrin və fikirlərin plüralizmə uyğun və qərəzsiz işıqlandırılmasına nail olmaq imkanı verir. 
+4. Vikipediyaya daxil edilmiş informasiya tədricən dəyişilmək tendensiyasına malikdir. 
+5. Xüsusiləşdirilmiş informasiyanı Vikipediyada çəkinmədən saxlamaq olar. 
+6. Mübahisəli məqalələr və konflikt yaradacaq informasiyalar Vikipediyada çox azdır və müraciət olunduqda onların fəaliyyətini dayandırmaq mümkündür. Vikipediyada neytral məqalələr daha davamlıdırlar.
+Vikipediyada periodik olaraq bu və ya digər məqalənin götürülməsi haqqında tələblər təqdim olunurlar. Vikipediyanın redaktorları dərc olunan informasiyaları izləyirlər və bəzi hallarda mübahisəyə səbəb olan məqalələrdə müvəqqəti olaraq azad redaktəyə qadağa qoyur, bəzən isə məqaləni tamamilə bağlayırlar. Məsələr, Vikipediyanın rus bölməsində “Нагорный Карабах” məqaləsində olduğu kimi. Baş adminstrator (stüard) Maksim Semyonnikin dediyi kimi, istifadəçilərin uzun müddətli müzakirələrdə ortaq məxrəcə gələ bilmədiklərini nəzərə alaraq məqalənin dəyişdirilməsinə qadağa qoyulmuşdur. “Нагорный Карабах”, “Азербайджанцы” və bir çox məqalələri nəzərdən keçirdikdə, məlum olur ki, təsdiq olunmamış informasiyalara Vikipediyada rast gəlinməsi təəssüf ki, mümkündür, belə ki, məqalə yaratmağa və özgələrin məqalələrini redaktə etməyə kütləvi onlayn ensiklopediyasında hər kəsə icazə verilir.
+Encarta – Microsoft şirkətinin yayımladığı rəqəmsal-multimedia ensiklopediyasıdır.  1993- cü ildə yaradılmış və 2009-cu ilə kimi  istifadə olunmuşdur.  
+Digər onlayn ensiklopediyalardan yüksək dərəcəli interaktivliyi ilə fərqlənirdi. Ensiklopediyaya müraciət pulsuz idi.
+Lakin saytın daha geniş imkanlarından istifadə etmək istəyən internet istifadəçiləri pul ödəməklə "Encarta"-dan qeydiyyatdan keçə bilərlər. Ensiklopediya ingilis dilindədir və tarixi sənədlərin kopyaları, məşhur adamların çıxışlarının audio və video fraqmentləri, çoxlu sayda unikal yazılarla zəngindir.
+Ən əsası isə digər ensiklopediyalarda rast gəlinməyən virtual atlasa malikdir.
+Axırıncı Encarta ensiklopediyasında 68 mindən artıq məqalə, cürbəcür statistik məlumat, video, tarixi kartlar, lüğətlər və xeyli digər lazimlı və maraqlı məlumatlar yerləşdirilmişdir.
+
+EOLSS - Həyat təminatı sistemlərinin ensiklopediyası (ingiliscə, Encyclopedia of Life Support Systems). Ensiklopediya YUNESKO-nun himayəsi ilə yaradılmışdır. Ensiklopediyanın elektron variantı 50 milyon sözdən ibarət 180 cild təşkil edir.
+Sistem pulludur, lakin qısamüddətli müraciət və təhsil müəssisələri üçün xüsusi icazələr əldə etmək mümkündür. Müxtəlif sahələrə aid 16 ensiklopediyanı özündə birləşdirir.
+	•	Yer və atmosfer
+	•	Riyaziyyat
+	•	Biologiya, psixologiya və təbabət
+	•	Kimya elmləri və texnologiyaları
+	•	Fizika elmləri və texnologiyaları
+	•	Sosial və humanitar elmlər
+	•	Su resursları və texnologiyaları
+	•	Energetika
+	•	Ekologiya və əttraf mühit
+	•	Kənd təsərrüfatə və ərzaq
+	•	İnsan resursu
+	•	Təbii resurslıarın idarə edilməsi
+	•	İqtisadiyyat və istehsalat
+	•	Təşkilat və infrastruktur
+	•	Texnologiya, informasiya və sistemli idarəçilik
+	•	Regional sabit inkişaf
+
+
+ Everything2 (E2) -  Wiki texnologiyasına oxşar texnologiya vasitəsilə insan biliyinin bütün sahələrindən informasiyaları toplayan veb-sayt və onlayn cəmiyyətdir. İnternetdə fəaliyyət göstərən ən böyük ensiklopediyalardan biridir.
+Everything2 (E2)-dən əvvəl, Neyt Oostendorp (Nate Oostendorp), tərəfindən 1998-ci ildə Everything (E1) saytı yaradıldı. Sayt Slashdot bloqu ilə sıx bağlı idi və bloq tərəfindən reklam olunurdu. E2 proqram təminatı E1 proqramına nisbətən daha funksionaldır. 13 noyabr 1999 və 2000-ci illərdə E1 saytındakı bütün informasiyalr E2-yə köçürülmüşdür.
+E2'nin qabaqcılı, Mart 1998-ci ildə Nathan Oostendorp tərəfindən başladılan və başlanğıcda texnologiya ilə əlaqədar xəbər web saytı Slashdot'la yaxından əlaqəli olan və inkişaf edilən Everything (daha sonra "Everything2" və ya "E2" olaraq adlandırılan) adlı bənzər bir veb-sayt idi.
+   IBList (en. Internet Book List) – İnternetdə ədəbiyyat üzrə verilənlər bazasıdır (VB). 2003 -cü ildə Patrik Ros tərəfindən yaradılmışdır.
+2007-ci ilin noyabr ayının axırlarına olan məlumata görə IBList onlayn ensiklopediyasında 60 min kitab, 18 min müəllif və 4400 kitab seriyaları haqqında məqalə vardır. Ensiklopediyaya həm də çoxlu sayda müxtəlif hekayələrər, kitablar haqqında müxtəlif müəlliflərin fikirləri və s. daxil edilmişdir. Obyektlərin strukturlaşdırılması reytinqə, janra, kitab və ya əsərin adına, müəllifin ad və soyadına görə aparılır.
+Qeydiyyatdan keçmiş istifadəçilər ensiklopediyada hər hansı əsər haqqında fikirlərini yaza bilərlər. Eyni zamanda IBList-in VB-na yeni kitabların, müəlliflərin və məqalələrin daxil edilməsi haqqında təkliflərini verə bilərlər. Bu təkliflər saytın idarəçiləri tərəfindən öyrənilir.
+IBList saytında ədəbiyyat mövzusunda formlar da keçirilir. Ensiklopediya ingilis dilində fəaliyyət göstərdiyindən məqalələrin çoxu indilis dilində bədii ədəbiyyat haqqındadır.
+Sitizendium (Citizendium – citizens compendium of everything) – universal vətəndaş xəzinəsi.
+Vikipediyanın yaradıcılarından biri olan Larri Sanqer 2007-ci il martın 26-da virtual ensiklopediyaya alternativ olan Sitizendium on-line ensiklopediyasını yaratdığı barədə xəbər verdi. Senqer təkcə ingilis dilində 2,4 mln. məqaləyə malik olan Vikipediyanın müvəffəqiyyətini etiraf edir. Vikipediyada olduğu kimi Sitizendium da pulsuzdur və istifadəçilər tərəfindən doldurulur. Lakin burada müəllifin göstərilməsi vacibdir, məqalələr isə ekspertlər tərəfindən təsdiq olunmalıdırlar. Məqsəd isə Vikipediya olan problemin Sitizendiumda qarşısını almaqdır – çoxsaylı səhvlərdən və ziyankarlıqlardan ensiklopediyanın qorunması.
+Hal-hazırda mətnlərin düzəlişində iştirak üçün təqribən 900 müəllif və 200 redaktor cəlb edilmişdir. Saytda artıq 7000-dən çox məqalə yerləşdirilmişdir ki, onlardan çoxu ekspertlər tərəfindən təsdiqlənmış, diğərlərinin dəqiqlik dərəcələri yaşıl işarə ilə bildirilmişdir
+Sitizendium layihəsi birinci növbədə Vikipediyada olan nöqsanların aradan qaldırılmasına istiqamətlənmişdir. Vikipediyanın bütün müsbət keyfiyyətlərini saxlamaqla əsas problem sayılan anonim istifadəçilərin səhv və ziyankarlıqlarından xilas olmaq Sitizendiumda öz həllini tapmışdır.
+“Əgər yeni pulsuz ensiklopediya buraxılırsa, o zaman o, hiss olunacaq qədər daha yaxşı olmalıdır. İstifadəçilərin bütün səlahiyyətlərə malik olduqları halda Vikiyə ziyan vurmaqları məni məyus etdi. Odur ki, mən onun inkişaf etdirilməsində bir növ mümkünlük görmürəm” – Senqer bildirmişdir.
+Avtorizasiyanın mütləq olması Sitizendium ensiklopediyada qalmaqalların qarşısını alacaqdır. Necə ki, bu yaxınlarda Vikipediyada anonim ― ”ekspertlərin” yaratdıqları bəzi məqalələr üzündən məhkəmələrə müraciətlər olunmuşdur. Senqer hesab edir ki, Vikipediyanın ―”normal” istifadəçiləri Sitizendiuma relevant kontentlər daxil etməklə, onu zənginləşdirilməsini təmin edəcəklər. Burada da hər kəs məqalədə düzəliş və əlavələr edə bilər ki, bu düzəlişlər sonradan redaktorlar tərəfindən nəzərdən keçiriləcəklər. Senqer əmindir ki, Sitizendiumun professional və əlyetərli olması Vikipediyadan fərqli olaraq daha çox auditoriya cəlb edəcəkdir.
+
+Nupediya(ing. Nupedia) – ingilis dilində fəaliyyət göstərmiş ensiklopediya layihəsidir.
+Ensiklopediyada məqalələr ekspertlər tərəfindən yaradılaraq internetdə azad yayılırdı. Ensiklopediya layihənin baş redaktoru və təşkilatçısı Lourens Senqer və Bomis şirkətinin icraçı direktoru Cimmi Uels tərəfindən yaradılmış Nupediya 2000-ci ilin mart ayından 2003-cü ilin sentyabr ayına qədər fəaliyyət göstərmişdir.
+Nupediya ensiklopediyasınnı viki-sayt hesab etmək olmazdı. Onun əsasını alim və mütəxəsislər tərəfindən məqalələrin dəqiq yoxlanması təşkil edirdi. Lakin Nupediyada məqalələrin daxil olunması prosesi çox ləng getdiyindən onun bağlanması haqqında qərar qəbul edildi. Nupediya ensiklopediyası bağlanarkən orada 25 tamamlanmış, 74 yoxlama prosesində olan məqalə var idi.
+Vikipediya açıq ensiklopediyası Nupediya ensiklopediyası əsasında yaradılmışdır. Lakin Nupediyadan fərqli olaraq, burada məqalələr könüllü İnternet istifadəçiləri tərəfindən yoxlanılır.
+PlanetMath – ingilis dilində fəaliyyət göstərən, azad onlayn riyazi ensiklopediyasıdır. PlanetMath virtual ensiklopediyası da Vikipediya kimi GFDL lisenziyası ilə işləyir. Layihə Virciniya Texniki Kollecinin Rəqəmsal Tədqiqat laboratoriyasının kitabxanasında yerləşir. Layihə MathWorld azad ensiklopediyasının məhkəmə tərəfindən 12 aylıq bağlanmasına cavab olaraq yaradılmışdır. PlanetMath ensiklopediyasının yaradılmasında və idarə edilməsində Perl proqram təminatından istifadə olunur.
+ Layihənin əhatəli olması məqsəd qoyulmuşdur. Bu anda Waterloo Universiteti serverlərində yerləşdirilib.
+
+Scholarpedia  – İngilis dilində, online, ümumiyyətlə xüsusiyyətli bir məzmuna sahib olmağı məqsəd qoyan açıq erişimli çevrim içi akademik jurnalları ehtiva edən wiki-based bir ensiklopediyadır. Scholarpedia məqalələri, dəvət edilən mütəxəssis yazarlar tərəfindən yazılır və bənzər qiymətləndirməyə tabedir. Scholarpedia bir məqaləyə daxil olan bütün yazarlarının, kurator və redaktorları gerçək adlarını və əlaqələrini izah edir. Ancaq bənzər qiymətləndirmə prosesi (bu müddətdə dəyişikliklər və ya əlavələr tövsiyə edilə bilər və bir məqalə nəşr əvvəl keçilməsi lazım olan bir prosesdir) anonimdir. Scholarpedia məqalələri çevrim içi bir məlumat hovuzunda saxlanılır və ənənəvi jurnal məqalələri olaraq istinad istifadə edilə bilir (Scholarpedia ISSN nömrəsi: 1941-6016). Scholarpedia'nın istinad sisteminə revizyon ədədlərinə dəstək daxildir.  
+Bu layihə Fevral 2006 Eugene M. Izhikevich tərəfindən, sinir elmi İnstitutu (Neurosciences Institute), San Diego, California bir tətqiqatcı olduğu vaxt yaradıldı. Izhikevich eyni zamanda bu ensiklopediyanın baş redaktorudur.
+Məqalələrin mütəxəssislər tərəfindən yazıldığına əmin olmaq məqsədiylə, Scholarpedia'daki müxtəlif məqalə yazarları ya baş redaktor və ya kurartor tərəfindən dəvət edilir ya da xalqa açıq seçkilərlə seçilir. Məsələn, Jimmy Wales və Larry Sanger Wikipedia ilə əlaqədar məqalənin yazılması üçün namizəd göstərilmişdir. May 2009-dan etibarən, yazar siyahısı dörd Fields medal sahibi və on altı Nobel mükafatı sahibi yazıçısı ehtiva etməkdədir.
+Scholarpedia Wikipedia, MediaWiki ilə eyni ancaq revizyon səs verməni dəstəkləyici dəyişikliklər ehtiva edən wiki mühərrikini istifadə edir. Proqramın inkişaf etdirilməsi gizli olaraq həyata keçirilir.
+
+ScienceWorld –  Eric Weisstein's World of Science olaraq tanınan bir onlayn ensiklopediyadır. 2002-ci ilin yanvar ayından 2007 ci ilin noyabr ayına kimi fəaliyyət göstərmiş bu ensiklopediya özündə 4000-dən çox istifadəçini  əhatə edirdi. Özündə elmin bir çox sahələri haqda məlumatları daşıyan ensiklopediyada  astronomiya, fizika, kimya və  biologiya üzrə yüzlərlə elm adamlarının yazıları saxlanılırdı. Yarandığı ilk gündən etibarən   Eric Weisstein tərəfindən  Wolfram Research, Inc rəhbərliyi altında idarə olunub. 
+
+SAGE Handbook of Political Communication – Siyasi Əlaqə SAGE El Kitabı siyasət, media və rabitə, sosiologiya və tədqiqat metodları sahələrində irəli səviyyədəki şagirdlər, araşdırmaçılar və praktikantlar üçün əhəmiyyətli bir meyar nəşridir.
+Birinci hissədə: media sənayesi, yeni media, texnologiya və siyasi sistemlər kimi siyasi rabitə makro səviyyədə təsirlər araşdırılır.
+İkinci hissə: - Gerçək və Online - ictimai şəbəkələrin təsirləri və siyasi rabitə.
+Üçüncü hissə: siyasi rabitə araşdırmalarında metodoloji inkişaflar ələ alır.
+Dördüncü hissə: siyasi rabitə necə qavranılır və aydınlaşdırılır.
+Beşinci hissə : müxtəlif kontekstlərdə siyasi bir rabitə, beynəlxalq, regional və müqayisəli anlaşılmayı necə imkan verir.
+Encyclopedia of Journalism - Jurnalist və elm adamlarının ehtiyaclarına uyğun olacaq şəkildə açıq və əlçatan bir tərzdə yazılmış, bu ensiklopediya son dərəcə böyük xəbər təşkilatları tərəfindən və jurnalistika təhsili verən bütün məktəblər üçün tövsiyə edilir. Axtarılan informasiya növündən asılı olaraq, kütlə prinsiplərinə əsasən axtarılan məlumatlar həmin ensiklopediyada tapmaq olar.
+
+	Nəticə:  Yazılan məlumatlardan belə nəticəyə gəlmək olar ki, insanların internet üzərindən informasiya axtarışı zamanı resursun etibarlı olması səbəbi ilə müraciət olunan portallar onlayn ensoklopediyalardır. Elm, incəsənət, siyasət və digər sahələrdə müxtəlif mahiyyətli təyinatla cəmiyyətə xidmət edən həmin ensiklopediyalarda daxil olan məlumata portal adminstrasiyası tərəfindən bəzilərindən tamamilə, bəzilərində isə  qismən  nəzarət olunur və topluluq standartlarında və tərəfsizlik prinsipinə görə fəaliyyət göstərməsinə çalışılır. Redaktəyə açıq olan məqalələrin dövlət, partiya, təşkilat və digər qismlərdə fikir ayrılığı yaratdığı halda həmin məqalələrin redaktəsi bağlanılır. Bütün bu və ya digər hallarda yeganə məqsəd insanlara sağlam informasiya verməkdir.
+
+Ədəbiyyat:
+1.İnternet. Sosial media. Blogerlik – Aydın Əbilov. Bakı 2013.
+2.Azərbaycan respublikasında inkişaf naminə İKT-ın tətbiqi və inkişaf etdirilməsinin milli strategiyası (İKTMS). 2003-2012-ci illər. Bakı 2003.
+3. “Kompüter şəbəkələri və işlənən informasiyanin paylanması”. –  Mazanova S.B.  Bakı, 2008
+4. “İnformasiya sistemləri” –   Kərimov S.Q. Bakı 2008.
+
+

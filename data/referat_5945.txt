@@ -1,0 +1,86 @@
+ 
+Mirzəyev Ruslan Zahid oğlu 
+Lənkəran Dövlət Universiteti,
+“Texniki fənlər və İKT” kafedrası, müəllim.
+ruslan.mirzeyev01@mail.ru
+
+GƏLƏCƏK MÜTƏXƏSSİSLƏRİN TƏLİM VƏ TƏDRİSİNƏ İNFORMASİYA TEXNOLOGİYALARININ (İT) TƏTBİQİ
+
+Annotasiya: Məqalədə ali təhsil müəssisələrinin tədris prosesində yeni informasiya texnologiyalarından istifadə məsələsi və problemlərinə baxılır. Tələbələr üçün təhsil və maarifləndirmə sahəsində İT-dən istifadə şərtləri və metodları göstərilmişdir. 
+Açar sözlər: İnformasiya Texnologiyası (İT),informasiya cəmiyyəti, təhsil, tədris, kompüter, mütəxəssis hazırlığı, özünütəhsil, multimediya.
+Ключевые слова: Информационные технологии (ИТ), информационное общество, образование, обучение, компьютер, подготовка специалистов, самообучение, мультимедиа.
+Keywords: Information technology (IT), information society, education, training, computer training, self-learning, multimedia.
+Cəmiyyətin müasir inkişaf səviyyəsi, azad düşüncəli və bacarıqlı, ali təhsilli mütəxəssislərin yetişdirilməsini tələb edir. Bunun reallaşdırılması üçün təhsil prosesinə İnformasiya Texnologiyaları (İT) sahəsi tətbiq edilir. Bu barədə qeyd etmək istəyirəm ki, bu təhsil prosesinin ən maarifləndirici metodudur.
+Tədqiqatın aktuallığı aşağıdakı ziddiyyətlərlə şərtlənir:
+	•	Təlimin ənənəvi növü ilə sürətlə meydana çıxan yeni biliklərin yaranma tempi;
+	•	Maarifləndirici prosesdə İT-dən lazımi səviyyədə istifadə olunma səviyyəsi ilə İT imkanlarından formalaşan yeni səlahiyyətlər;
+	•	Ali məktəblərin məzunlarının faktiki hazırlıq səviyyəsi ilə müasir istehsal sahələrinin yüksək keyfiyyətli İT biliklərinə malik olan kadrlara ehtiyacı.
+Təhsil sistemi üçün informasiyalaşdırmanın müvəffəqiyyətli inkişafı, professional və praktiki biliklərin və kompüter hazırlığının müəllim (öyrədici) və tələbə (öyrənən) arasında qarşılıqlı ötürülməsindən ibarətdir. Ali təhsilin informasiyalaşdırılması - tədris prosesini idarəetmə yolu ilə tədris və elmi-tədqiqat işində hesablayıcı texnikadan və kompüter texnologiyalarından istifadə sferasının genişləndirilməsi hesabına  mütəxəssislərin hazırlıq səviyyəsinin inkişafına yönəldilmiş tədbirlər kompleksinin reallaşdırmasıdır.
+Tədqiqatın obyekti - tələbələrin hazırlığının keyfiyyətin artırılmasının prosesidir. Tədqiqat predmeti - tələbələrin hazırlığının keyfiyyətin artırılması üçün İT-nin tətbiqi şərtləridir. Tədqiqatın məqsədi isə, ali təhsil müəssisələrində təhsil alan tələbələrin hazırlıq keyfiyyətinin artırılması üçün İT-nin tətbiqi proqramının hazırlanmasıdır.
+İnformasiya texnologiyaları - informasiya ehtiyatlarından istifadə olunması proseslərinin ağırlığını azaltmaq, onların etibarlığını və operativliyini çoxaltmaq məqsədilə informasiyanın toplanması, emalı, saxlanması, ötürülməsini təmin edən və texnoloji zəncirdə birləşdirən metodlar, istehsal prosesləri və texniki-proqram vasitələri toplusudur.
+Özünün mürəkkəb yüksək texnoloji və sürətli dəyişən istehsalı, həmçinin inkişaf etmiş infrastrukturu ilə müasir informasiya cəmiyyəti müxtəlif ixtisaslı, yüksək keyfiyyətli biliklərə malik mütəxxəsislərin yetişdirilməsini tələb edir. Hazırda ali məktəb məzunlarına mürəkkəb istehsalat prosesində onlara kömək edəcək təkcə fundamental baza biliklərinə malik olmaları deyil, həmçinin aşağıdakı informasiya-texnoloji hazırlıqları tələb olunur:
+	•	Ümumiləşdirmə qabiliyyəti, analiz, informasiya qəbulu, hədəfin qoyulması və ona nailiyyət yolunun seçilməsi;
+	•	İnformasiyanı əldə etmək və onu istifadə etmək bacarığı;
+	•	İT-dən istifadə etmək bacarığı;
+	•	İT-dən istifadə qabiliyyəti və öz ixtisası sahəsində kompüter qrafikasından istifadə etmək bacarığı;
+	•	İstehsal vasitələrinin yenilənməsində yaranan isformasiya yüklənmələrinə uyğunlaşmaq bacarığı;
+	•	İxtisas sahəsində İT-dən istifadəyə hazırlıq;
+	•	Kolloktivdə işləmək bacarığı;
+	•	Özünü təhsil və müntəzəm olaraq ixtisas artırmaq bacarığı.
+İnformasiya hazırlığının əsas komponentlərinin məzmunu elə qurulur ki, onlar gələcək mütəxəssisin informasiya mədəniyyətinin gələcək inkişafı üçün baza rolu kəsb etsin. Təhsilin informasiyalaşdırılmasının əsas məsələlərinə aiddir:
+	•	Təhsilin effektiv metodlarının tətbiqi;
+	•	Tədris prosesində yaradıcılığın və intelektuallılığın artırılması;
+	•	Maarifləndirici sahənin müxtəlif növlərinin birləşdirilməsi. Bu halda gələcək professional fəaliyyət sahəsinin ixtisas xüsusiyyəti öz əksini aşağıdakı konkret tətbiqi məsələlərin həllində tapmalıdır:
+	•	Multimediya sistemlərinin öyrənilməsi;
+	•	Nəzarət və öz-özünə nəzarət proqram bilikləri;
+	•	Təşkilatda və elmi araşdırmaların keçirilməsində İT-dən istifadə;
+	•	Konfransların aparılması üçün İT-dən istifadə.
+Hazırki nəslin nümayəndələri kifayət qədər qısa müddətdə və effektiv sürətdə öncəki nəsil tərəfindən yaradılmış texnika ilə deyil, həmçinin gələcəkdə yaradılacaq texniki biliklərə yiyələnməlidirlər. Onlar texnikanın və elmin gələcək inkişafına hazır olmalı və hazırda inkişaf edən nəslin təlim və tərbiyəsi gələcək davamlı inkişafa yönəldilmiş olmalıdır. Düzdür, təlim və tərbiyə prosesi bütün dövrlərdə tədrisin əsas prinsipi olmuşdur. Lakin, indiki Elmi-Texniki Tərəqqinin tempi əvvəlki heç bir dövrlə müqayisə olunmaz dərəcədədir və getdikcə daha da inkişaf etməkdədir.
+Hal-hazırda insan fəaliyyətinin bütün sferalarına kompüter texnikasının sürətli inkişafının tətbiqi prosesi gedir. Kompüterləşdirmə prosesi özüylə informasiyanın sürətli alınması, saxlanması, ötürülməsi və rasional istifadəsi bacarıqlarına yiyələnməni tələb edir. Pedaqoji və texnoloji vasitələrlə və informasiya istehsalının tədris prosesinə daxil edilməsilə informasiyalaşdırılması mümkündür.
+Müasir İT təhsildə, təlimin yeni proqram-metodiki texnoloji vasitələrlə telekom-munikasiya əlaqələri, instrumental proqram vasitələri və interaktiv vasitələrin məcmusunu əhatə edir. İT tədrisinə interaktiv resursların və bazaların hazırlanması (Multimediya vəsaitləri, müxtəlif məlumat bazaları, öyrədici saytlar və s.) və istifadə prosesi daxildir.
+Müasir dövrdə yeni İT-nin hazırlanması və istifadəsi davamlı olaraq hər il baş verir. Təhsildə istifadə oluna bilən yeni İT vəsait və sistemlərinə aiddir: kompüterlər, monitor, printer, yaddaş, mikrofon təchizatı, skaner, klaviatura, məlumat bazası, bilik bazaları, multimedia sistemləri, videomətn, telemətn, televiziya, modem, kompüter şəbəkələri, elektron poçt, məlumat-axtarış sistemləri, ekspert öyrədici sistemlər, qrafik məlumat qurğuları, tədris təyinatlı elektron lövhə, mətnin tanınması sistemləri, bulud texnologiyası və s.
+Yuxarıda sadalananlar aşağıdakı göstərilən prosesləri təmin edir:
+	•	Tədris-tərbiyəvi prosesin bütün səviyyələrinin inkişafı;
+	•	Öyrədilənin (tələbə) çoxtərəfli inkişafı;
+	•	Ali məktəb məzunlarının informasiya cəmiyyəti şərtlərinə uyğun hazır olmaları.
+Beləliklə qeyd edə bilərik ki, İT təlim-tərbiyə və maarifləndirici prosesdə kompüter vasitələrinin tədrisə tətbiqi ilə yüksək səviyyə əldə olunmasına vəhdətdədir. Təhsildə İT-nin tətbiqinə yeni maarifləndirici prosesin formalaşmasına yönəldilmiş strateji həll kimi baxılmalıdır. Yeni İT-in effektivliyi mövcud tədris prosesinin bir üzvü kimi baxıldıqda deyil, təhsil sisteminə daxil edilən yeni bir element kimi baxıldıqda özünü büruzə verir. İstənilən ixtisaslı müasir mütəxəssis informasiya mübadiləsi və axını şəraitində informasiya ala, emal edə və ötürməsini bacarmalıdır.
+Son illər əsas problemlərdən biri İT təlimi mütəxəssislərin peşəkar-işgüzar  keyfiyyətlərinin formalaşmasındakı rolundan ibarətdir. Bu problemin həllinin əsas istiqamətlərinə aşağıdakılar aiddir:
+	•	Təlim-tədris prosesinin kompüterləşdirilməsi;
+	•	İnformasiya mədəniyyəti və mütəxəssisin peşə mədəniyyətinin tərkibi;
+	•	Tələbələrin özünütəhsil (fərdi) prosesində elektron vəsaitlərin yeri və rolu;
+	•	Fərdi kompüterlərlə tələbələrin sərbəst işinin təşkili;
+	•	Biliklərə kompüter nəzarətinin keçirilməsi təcrübəsi;
+	•	Tədris prosesində multimedia texnologiyalarından istifadənin effektivliyi.
+YUNESKO-nun məlumatına görə, insan, ona bildirilən informasiyanın danışıq və eşitmə zamanı - 15% ,vizual olaraq - 25%, eşidərək və eyni zamanda görərək 65%-ni yadda saxlayır. Multimediya texnologiyalarından istifadənin 2 əsas məqsədi vardır: 1. mənimsəməni və tədris materialının yadda saxlanmasını yüngülləşdirmək, 2. təhsil prosesinin fərdiləş-dirməsi. Bütün bu keyfiyyətlərə tələbələr İT-dən istifadə etməklə və fərdi təcrübə aparmaqla nail ola bilərlər.
+Tədrisdə ənəvi təlim prosesindən imtina edib, innovasion texnologiyalardan istifadəyə keçid gələcək mütəxəssilərin lazımı tələblər çərçivəsində yetişdirilməsindən güvənli olaraq danışmağa imkan verir. Həmçinin tədris proqramları aktuallıq, açıqlıq, reallıq prinsiplərinə uyğun olmalıdır.
+Şübhəsiz ki, İT-nin təhsilə tətbiqi, müasir cəmiyyətin inkişafı yolunda qaçılmaz bir prosesdir və bu proses ali məktəb tələbələrinə bir çox üstünlüklər verir.  Qeyd etmək istərdim ki, kompüter və İT, bacarıqlı tədris fəaliyyətinin bütün istiqamətlərini əvəz edə bilən universal bir vasitə deyil, yalnız bu prosesdə istifadə olunan alət və ya vasitədir.
+
+Ədəbiyyat siyahısı
+	•	Ваграменко Я.А., Зобов Б.И., Осипов А.П. “Педагогический виртуальный университет: основные задачи, принципы построения, структура информационных ресурсов”. “Педагогическая информатика”, №1, 2002 г.
+	•	Роберт И. Современные информационные технологии в образоваии.-М.:Школа-Пресс,1994.
+	•	Шарфин Ю.А. Информационные технологии: В 2ч.-М.: Лаборатория Базовых Знаний. Ч.1: Основы информатики и информационных технологий.-2000.-320 с.
+	•	http://www.computerra.ru/
+	•	https://az.wikipedia.org/wiki/İnformasiya_texnologiyaları
+
+Мирзоев Р.З.
+Ленкораньский Государственный Университет,
+кафедра «Техническиу науки и ИКТ», преподаватель.
+
+Применение информационных технологий (İT) в процессе обучения и преподавания будущих специалистов
+
+Резюме
+В данной работе рассматривается использование и проблеммы  новых информационных технологий (НИТ) в процессе обучения в ВУЗе. Для студентов показано методы и условия использования ИТ в сфере oбучения и осведомленности.
+
+
+Mirzayev R.Z.  Lankaran State University,
+chair-Technical subjects and ICT, teacher.
+
+The use of information technology (İT) in the process of learning and teaching of future specialists
+
+Summary
+This study examines the use and problemmy new information technologies (NIT) in the learning process at the university. For students demonstrated the methods and conditions for the use of IT in the field of Trainings and awareness.
+
+Mirzəyev Ruslan Zahid oğlu,
+Lənkəran Dövlət Universiteti, “Texniki fənlər və İKT” kafedrası, müəllim.
+e-mail: ruslan.mirzeyev01@mail.ru
+Mob.: +994504027899

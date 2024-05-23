@@ -1,0 +1,243 @@
+Azərbaycan  Respublikası  Təhsil  Nazirliyi
+Təhsil  Problemləri İnstitutu
+
+ 
+
+
+
+
+
+Ilk peşə ixtisas təhsilli 
+mütəxəssislərin hazırlığı üçün
+
+
+
+
+
+
+
+
+
+
+
+“İnformasiya sistemlərində təhlükəsizliyin təmini” fənninin
+ 
+
+Tədris proqramı
+
+
+
+
+
+
+
+
+
+Bakı – 2016
+
+
+
+
+
+Tərtib edən:
+Səlimə İmran qızı Quliyeva
+          ARTPİ , Peşə ixtisas təhsili şöbəsinin böyük elmi işçisi                                                 
+
+
+
+
+
+Elmi redaktor:                                                   Rəsul Baxşəli oğlu Əsgərov                      
+                             ARTPİ, Peşə ixtisas təhsili şöbəsinin müdiri, əməkdar müəllim   
+       
+                                                                            
+                                                  
+
+												
+                
+                     
+                                        
+                     
+
+
+ 
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+İzahat vərəqi
+
+İnformasiya təhlükəsizliyi dedikdə informasiyanın və informasiya mühitinin təsadüfi və ya düşünülmüş təbii və ya süni xarakterə malik təsirlərdən müdafiə vəziyyəti  başa düşülür.
+İnformasiyanın mühafizəsi – informasiya təhlükəsizliyinin təmin olunması üçün həyata keçirilən kompleks tədbirlərdir.
+İndiki zamanda informasiyanın təhlükəsizliyi informasiyanın ən çox yayılmış üç əsas xüsusiyyətinə əsaslanır: konfidensiallıq, tamlıq və əlçatanlıq.
+İnformasiyanın konfidensiallığı həddindən artıq məhdud dairədə olan insanlar ilə tanış olmağın mümkünlüyünü ifadə edir. Bu insanlar informasiya sahibləridirlər. Əgər informasiyanı bu şəxslərdən başqa icazəsi olmayan digər şəxslərdə istifadə edə bilirlərsə, onda informasiyanın konfidensiallığı itmiş olur.
+İnformasiyanın tamlığı onun təhrif olunmamış şəkildə saxlanma bacarığını (qabiliyyətini) müəyyənləşdirir. Səlahiyyəti olmayan, qabaqcadan nəzərdə tutulmamış istifadəçi tərəfindən informasiyanın itirilməsi (operatorun səhvi və ya səlahiyyətsiz şəxsin qəsddən etdiyi hərəkət nəticəsində) onun tamlığının itirilməsinə səbəb olur. Tamlıq əsasən kritik infrastruktura malik obyektlərin müəyyən fuksiyanı yerinə yetirməsində yararlı olan maliyyə verilənləri üçün xüsusilə vacibdir (məsələn, enerji təminatında, hava yollarının idarə edilməsində və s.).
+İnformasiyanın əlçatanlığı sistemdəki informasiya obyektinə müvafiq səlahiyyət sahibi olan istifadəçinin ona mənsub olan vaxt ərzində həmin obyektə maniəsiz daxil olma xüsusiyyətinin müəyyən edilməsidir.  
+ “İnformasiya sistemlərində təhlükəsizliyin təmini”  fənni tədris planına uyğun olaraq, 1 illik təhsil müddətində- 30saat (I yarım ildə - 30 saat); 2 illik təhsil müddətində - 53 saat   (I kurs (I yarım ildə - 30 saat, II yarım ildə - 23 saat), 3 illik təhsil müddətində - 46 saat (I kurs (II yarım ildə – 46 saat)) həcmində tədris olunması planlaşdırılmışdır. 
+Kursu bitirənlər proqramdan istifadə edərək, informasiya təhlükəsizliyinin təmin edilməsi üçün istifadə olunan təşkilatı-qanunları ətraflı şəkildə öyrənəcəklər.
+
+
+
+
+
+
+
+“İnformasiya sistemlərində təhlükəsizliyin təmini”   fənninin mövzuları
+Cəmi: (1 illik – 30 saat; 2 illik – 53 saat; 3 illik – 46 saat )
+
+Giriş  (1 illik – 2 saat; 2 illik – 2 saat; 3 illik – 2 saat )
+İnformasiya təhlükəsizliyi haqqında əsas  anlayışlar
+        
+Mövzu:1 İnformasiya təhlükəsizliyi
+(1 illik – 2 saat; 2 illik – 2 saat; 3 illik – 2 saat )
+
+İnformasiya təhlükəsizliyinə yönəlmiş təhlükələr, İnformasiyanın azalma kanalları, Pozucunun qeyriformal modeli, Dövlət səviyyəsində informasiya təhlükəsizliyi, Müdafiə olunan AİS-nin qurulma prinsipləri, İnformasiya təhlikəsizliyi sistemlərinin məsələləri, Təhlükəsizlik hədələrinə qarşı tədbirlər, AİS-də müdafiə sisteminin qurulmasının əsas prinsipləri
+
+Mövzu: 2  Müdafiə olunan AİS-nin qurulma prinsipləri
+(1 illik – 2 saat; 2 illik – 4 saat; 3 illik – 2 saat )
+
+İnformasiya təhlikəsizliyi sistemlərinin məsələləri. Təhlükəsizlik hədələrinə qarşı tədbirlər. AİS-də müdafiə sisteminin qurulmasının əsas  prinsipləri
+
+Mövzu: 3  Təhlükəsizlik modelləri
+(1 illik – 2 saat; 2 illik – 2 saat; 3 illik – 2 saat )
+
+Təhlükəsizlik modelinin təyinatı və anlayışı, Diskreson əlçatanlıq modeli, Bella-LaPadula təhlükəsizlik modeli, Əlçatanlığa nəzarətin rol modedli (RBAC), Əlçatanlığa hədd qoyma sistemləri
+
+Mövzu: 4  Kriptoqrafiya giriş. Simmetrik şifrələmə
+(1 illik – 2 saat; 2 illik – 4 saat; 3 illik – 4 saat )
+
+Kriptoqrafiyanın əsas anlayışları, Şifrələmə, Simmetrik şifrələmə, Dayaqlıq alqoritmi, Başqasının yerinə qoyulma alqoritmi, Müasir simmetrik şifrələmə alqoritmi, Blok şifrələrinin fəaliyyət rejimi, Skremblerlər, Simmetrik alqoritmlərin problemləri
+
+Mövzu: 5 Açıq açarla şifrələmə. Elektron rəqəmsal imza
+(1 illik – 2 saat; 2 illik – 5 saat; 3 illik – 4 saat
+
+Kriptoqrafik protokol, Açıq açarla şifrələmə alqoritmi, Elektron rəqəmsal imza, Kriptoqrafik protokol anlayışı, Autentifikasiya protokolu, Açarların dəyişilmə protokolu, Özünə xas xüsusiyyəti olan protokollar
+
+
+
+
+
+
+
+
+Mövzu: 6 Parolun köməyilə müdafiə
+(1 illik – 2 saat; 2 illik – 4 saat; 3 illik – 4 saat
+
+AİS-nin təhlükəsizliyinin təmin edilməsində parolun köməyilə müdafiənin rolu, Parola hücum üsulları. Parolun təhlükəsizliyinin təmini, Məhdud diapazonda izafilik, Lüğətə uyğun hücum, Fərdi lüğətə hücum, Ümumi əlçatan yerlərdə saxlanılan parolların
+ toplanması
+
+
+Mövzu: 7 Kompüter virusları və onlarla mübarizə
+(1 illik – 4 saat; 2 illik – 6 saat; 3 illik – 6 saat
+
+Kompüter viruslarının təsnifatı, Kompüter viruslarının meydana gəlməsinin qısa tarixi, Polimorfizm – virusların mutasiyası, Təhlükəsizliyə qarşı virus hədələrinin tipləri, Mövcud yanaşmaların nöqsanları, Antivirus proqramlarının yaradılması və inkişafı, Viruslarla mübarizə
+
+
+Mövzu: 8 Şəbəkənin  müdafiə vasitələri
+(1 illik – 2 saat; 2 illik – 4 saat; 3 illik – 4 saat
+
+Şəbəkənin  müdafiə vasitələri, Şəbəkələrarası ekranlar, Xüsusi virtual şəbəkə (VPN), Zorla müdaxiləni aşkarlayan sistemlər (IDS)
+
+
+Mövzu: 9  Şəbəkələrin informasiya təhlükəsizliyi problemləri
+(1 illik – 2 saat; 2 illik – 4 saat; 3 illik – 4 saat
+
+Şəbəkə informasiya mübadiləsinə giriş, İnternet şəbəkədən istifadə, ISO/OSI modeli və TCP/IP protokollar yığım, TCP/IP protokollar yığımının strukturu və funksiyaları, Şəbəkə təhlükəsizliyinə edilən hədələrin təhlili, IP şəbəkələrinin təhlükəsizlik problem, Hədələr və naqilli korporativ şəbəkələrin əlaqələndirilməsi, Hədələr və naqilsiz korporativ şəbəkələrin əlaqələndirilməsi, Şəbəkənin informasiya təhlükəsizliyinin təmin edilməsi, İnformasiya təhlükəsizliyinin təmin edilmə üsulları, Şəbəkələrdə informasiyanın müdafiə probleminin həlli yolları
+
+Mövzu: 10  Təhlükəsizlik   siyasəti
+(1 illik – 2 saat; 2 illik – 2 saat; 3 illik – 2 saat
+
+Təhlükəsizlik siyasətinin əsas anlayışları, İnformasiya təhlükəsizliyinin təmin edilməsində idarəetmə tədbirləri, Müəssisənin təhlükəsizlik siyasətinin strukturu, Təhlükəsizliyin baza siyasəti, Xüsusiləşdirilmiş təhlükəsizlik siyasəti, Təhlükəsizlik prosedurları
+
+Mövzu: 11 İnformasiya  təhlükəsizliyi standartları
+(1 illik – 2 saat; 2 illik – 4 saat; 3 illik – 2 saat
+
+İnformasiya təhlükəsizliyi standartlarının rolu, İnformasiya təhlükəsizliyinin beynəlxalq standartı, ISO/IES 17799:2002 (BS 7799:2000) standartları, BSI alman standartı, ISO 15408 “İnformasiya texnologiyaları təhlükəsizliyinin ümumi kriteriləri” beynəlxaıq standartı, Naqilsiz şəbəkələr üçün standartlar, İnternetdə informasiya təhlükəsizliyi standartı
+ 
+
+
+Mövzu: 12 Əməliyyat sisteminin təhlükəsizliyinin təmini
+(1 illik – 2 saat; 2 illik – 6 saat; 3 illik – 6 saat
+
+Əməliyyat sisteminin təhlükəsizliyinin təmin edilməsi problemləri, Əməliyyat sisteminin təhlükəsizliyinə hədələr, Əməliyyat sisteminin müdafiə olunma anlayışı, Əməliyyat sisteminin müdafiə olunmasına yanaşma, Müdafiənin inzibatı tədbirləri, Adekvat təhlükəsizlik siyasəti, Əməliyyat sisteminin müdafiə olunma altsisteminin arxitekturası, Əməliyyat sisteminin müdafiə olunma sisteminin əsas funksiyaları, Əlçatanlıq subyektlərinin identifikasiyası, autentifikasiyası və avtorizasiyası, Əməliyyat sistemləri obyektlərinə əlçatanlığın məhdudlaşdırılması, Əlçatanliğin müvəkkil məhdudlaşdirilmasinin informasiya
+axinina nəzarəti, Audit
+
+Mövzu: 13 Şəbəkə təhlükəsizliyi vasitələrilə idarəetmə üsullari
+(1 illik – 2 saat; 2 illik – 4 saat; 3 illik – 2 saat
+
+Şəbəkə təhlükəsizliyinin vasitələrlə idarəetmə məsələləri, Şəbəkə təhlükəsizliyinin vasitələrlə idarəetmə arxitekturasi haqqında əsas anlayişlar, Təhlükəsizliyin idarəedilməsinin qlobal konsepsiyasi, Təhlükəsizliyin qlobal və lokal siyasəti, Təhlükəsizlik vasitələrilə idarəetmə sistemlərinin işləməsi
+
+
+“İnformasiya sistemlərində təhlükəsizliyin təmini”  fənninin mövzu  planı  və  saatların  bölgüsü
+S/S
+Mövzuların  adı
+Təhsil müddəti  üzrə saatlar
+
+
+Giriş.  İnformasiya təhlükəsizliyi haqqında əsas  anlayışlar
+Mövzu:1  İnformasiya təhlükəsizliyi
+Mövzu: 2  Müdafiə olunan AİS-nin qurulma prinsipləri
+Mövzu: 3  Təhlükəsizlik modelləri
+Mövzu: 4  Kriptoqrafiya giriş. Simmetrik şifrələmə
+Mövzu: 5 Açıq açarla şifrələmə. Elektron rəqəmsal imza
+Mövzu: 6 Parolun köməyilə müdafiə
+Mövzu: 7 Kompüter virusları və onlarla mübarizə
+Mövzu: 8 Şəbəkənin  müdafiə vasitələri
+Mövzu: 9 Şəbəkələrin informasiya təhlükəsizliyi problemləri
+Mövzu: 10 Təhlükəsizlik   siyasəti
+Mövzu: 11 İnformasiya  təhlükəsizliyi standartları
+Mövzu: 12 Əməliyyat sisteminin təhlükəsizliyinin təmini
+Mövzu: 13 Şəbəkə təhlükəsizliyi vasitələrilə idarəetmə üsullari
+
+
+Ədəbiyyat
+1.Əlizadə M.N, Bayramov H. M, Məmmədov Ə.S “İnformasiyanın təhlükəsizliyi”
+
+2.  Xəlilov.M.S   “İnformatika” Dərs vəsaiti.  Bakı,2009
+
+3. Rüstəmov Ə.M    “İnformatika”   Bakı-2010
+
+4. Z.Ə. Tağıyeva, S.B. Mazanova “Kompyuter sistemlərinin quruluşu və əməliyyat sistemləri” Bakı-2012
+
+5. Səfərov Z.H “Kompüter ensiklopediyası” Bakı-2013
+
+6. Fəzəliyev T “İnformatika”   Bakı-2012
+
+7. İnternet vasitəsilə alınmış materiallar
+
+8. Ilkaddimlar.com
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

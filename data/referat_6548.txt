@@ -1,0 +1,76 @@
+                                                                         
+Ad: Gülövşə
+
+Soyad: Xudiyeva
+
+Fakültə: Filologiya 
+
+İxtisas: Azərbaycan dili və ədəbiyyatı müəllimliyi
+
+Qrup: 1904B
+
+Müəllim: Qasımova Günay
+
+Mövzu: Qlobal şəbəkələr haqqında
+
+
+
+
+
+
+
+                                                               BAKI-2020
+İnternet qlobal şəbəkədə birləmiş milyonlarla kompüterləri, proqramları, verilənlər bazalarını, fayl və insanları birləşdirən şəbəkələrdən ibarət şəbəkədir. Müxtəlif kompüterlərin əlaqə kanalları vasitəsilə birləşdirilməsi ilə onların imkanları qat-qat artır. Bu cür birləşmə komputer şəbəkəsi adlanır.  Komputer şəbəkələri 3 qrupa ayrılır:
+	•	Lokal şəbəkə
+	•	Regional şəbəkə
+	•	Qlobal şəbəkə
+Qlobal şəbəkələr  yəni “WAN – Wide Area Networks”  müxtəlif şəhər və ölkələrdə yerləşə bilən, məsafəyə görə paylanmış kompyuterləri birləşdirirlər. Qlobal şəbəkələr onlardan çox əvvəl yaranmış telefon şəbəkələrindən çox şeyi qəbul edib.
+Qlobal kompyuter şəbəkələrinin ənənəvi abunəçiləri müxtəlif şəhər və ölkələrdə yerləşən müəssisələrin lokal və qlobal şəbəkələridir. Qlobal şəbəkələrin xidmətlərindən ayrı-ayrı fərdi kompyuterlər də istifadə edirlər. Adətən qlobal kompyuter şəbəkələri iri telekommunikasiya şirkətləri tərəfindən abunəçilərə pullu xidmətin göstərilməsi üçün yaradılır. Belə şəbəkələri ictimai şəbəkələr adlandırırlar. Şəbəkənin normal işini dəstəkləyən şirkət şəbəkənin operatoru adlanır. Xidməti təklif edən kompaniyaya provayder deyilir. Azərbaycanda əsas provayderlər “AzEuroTel”, “AzTelecom”, “Bakİnternet ”, “İntrans”, ”Azerin” və s.-dir.
+İnternetə qoşulma ayrılmış kanal vasitəsi ilə və ya zəng etmə yolu ilə, yəni telefon xətti ilə həyata keçirilir. Əlaqə xəttinin əsas göstəricisi informasiyanın maksimal ötürülməsi sürətidir. Əsasən ucuz qiymətə başa gəldiyi üçün telefon xətlərindən istifadə edilir.
+Ayrı-ayrı kompyuterlərin ayrılmış kanal vasitəsi ilə və ya telefon xətti ilə şəbəkəyə qoşulması üçün nəzərdə tutulmuş qurğuya modem (modulyator – demodulyator) deyilir. Modem informasiyaları kompyuterin ikilik kodundan telefon siqnallarına və əksinə çevirir. Bununla yanaşı digər funksiyaları da yerinə yetirir.
+Modemlər tipinə görə analoq (telefon xətləri), ISDN (rəqəmli telefon xətləri), ADSL (adi telefon xətlərindən istifadə edərək ayrılmış əlaqə), peyk və s. ola bilər.
+Modemin əsas xarakteristikası onun verilənləri ötürmə sürətidir. İnformasiyanın nəqli zamanı onun sürəti saniyədə meqabitlə (Mbit/san) və ya saniyədə impulsla (bod (boud)) ölçülür. Qeyd edək ki, informasiyanın ötürülmə sürəti modemlə yanaşı telefon xəttinin keyfiyyətindən də asılıdır.
+Hər ay İnternet kanalları ilə orta hesabla 30 Terabitdən artıq informasiya nəql edilir. Bu, hərəsi 700 səhifədən ibarət olan 30 milyon kitaba bərabərdir.
+İnformasiyaları əlaqə kanalı ilə ötürmək üçün onu əlaqə xəttində ötürülən siqnallar formasına çevirmək lazım gəlir. Bunu yerinə yetirmək üçün kompyuterə xüsusi qurğu – şəbəkə adapteri qoşulur. Adapter ana platanın üzərində yerləşdirilir və kabellər vasitəsilə digər kompyuterin adapteri ilə əlaqələndirilir. Son illər İnternet şəbəkəsində peyk radioəlaqədən də istifadə olunur.                                                                                              İnternet qlobal şəbəkəsi                                                                                                                İnternet – dünyanın bütün şəbəkələrini birləşdirən qlobal şəbəkədir, şəbəkələr şəbəkəsidir. Şəbəkələrdə müxtəlif texniki və informasiya təminatı istifadə edilir və buna görə də şəbəkələrin abonentləri arasında hamı üçün eyni olan ümumi qaydalar qəbul edilməlidir. Bu qaydalar təyin edilmiş standartlarda öz əksini tapır. Belə standartlar şəbəkə protokolları adlanır. Beləliklə, sistemin qovşaqlarının qarşılıqlı əlaqəsi üçün müxtəlif səviyyələrdə protokollar istifadə edilir. Protokol müxtəlif qovşaqlarda eyni səviyyədə şəbəkə komponentləri ilə mübadilə edən xəbərlərin ardıcıllığını və formatını təyin edən qaydalardır. Sadə dildə desək, protokol – şəbəkədə kompyuterlərin bir-biri ilə ünsiyyət dilidir. Şəbəkələrin qovşaqlarınla və bütün səviyyələrində onların qarşılıqlı əlaqəsini iyerarxik təşkil edən protokol yığını protokollar steki adlanır.
+Müxtəlif protokollardan istifadə edən şəbəkələrin (məs., lokal və qlobal) əlaqələndirilməsi üçün şəbəkə şlüzlərindən istifadə edilir.
+Şəbəkə körpüləri  isə lokal şəbəkələrin seqmentlərini birləşdirir.
+İnternetdə əsas protokol TCP/IP protokoludur. Bu protokol əslində aşağıdakı 2 protokoldan ibarətdir:
+IP (Internet Protokol) – şəbəkə protokolu – informasiyanın İnternet vasitəsilə hərəkət etdirilməsi üçün istifadə olunur. Bu protokol ötürülən informasiyanı ayrı paketlərə bölür, onları nömrələyir. Bu zaman kiçik informasiya panelində həmin panelin ünvanlandığı kompyuterin IP-ünvanları göstərilir ki, bunun köməyi ilə informasiya müəyyən olunmuş ünvana çatdırılır. IP-ünvan bir-birindən nöqtələr ilə ayrılan 4 nömrədən ibarətdir. Məs: 123.75.112.8 . Bu ünvanlarda istifadə edilə biləcək ən kiçik rəqəm 0, ən böyüyü isə 255-dir. IP-ünvanlar üçün yaddaşda 32 bit sahə ayrılır.
+TCP (Transmission Control Protocol) – verilənlərin ötürülmə protokolu isə paketlərin lazımi nöqtəyə düzgün çatdırılmasına xidmət edir. Bu protokollar steki aşağı səviyyədə fiziki və kanal səviyyələrinin, yuxarı səviyyədə isə tətbiqi səviyyənin protokollarını (FTP, Telnet, poçt protokolu SMTP, WWW hipermətn xidməti və s.) təşkil edir.
+Aşağıdakı şəbəkə protokollarından da istifadə edilir:
+ARP (Address Resolution Protocol, ünvanların müəyyən edilməsi protokolu): 32-mərtəbəli IP-ünvanları, loakl şəbəkələrin ünvanlasrına, məsələn, Ethernet ünvanlarına çevirir.
+FTP (File Transfer Protocol, faylların ötürülmə protokolu): faylların bir kompyuterdən digər kompyuterə ötürülməsinə xidmət edir.
+SMTP (Simple Mail Transfer Protocol, elektron poçtla mübadilənin sadə protokolu): Bu protokoldan məktubun istifadəçidən serverlərə göndərilməsi üçün və məktubun bir serverdən digərinə göndərilərək alıcıya çatdırılması üçün istifadə olunur. Məktubların qəbulu üçün isə poçt müştərisi POP3 (Post Office Protocol Version 3) və ya IMAP (Internet Message Access Protocol) protokollarından istifadə etməlidir. Poçt müştərisi (poçt proqramı) – elektron poçtla işləmək üçün istifadəçinin kompyuterində quraşdırılmış proqram təminatıdır. Məsələn, Microsoft Outlook, Outlook Express, Mozilla Thunderbird, The Bat!, Kmail və s.
+ ICMP (Internet Control Message Protocol): IP-marşrutizatorlara və şəbəkənin əsas kompyuterlərinə səhvlər haqqında məlumatların, idarəedici informasiyanın göndərilməsinə xidmət edir.
+İnternetin qısa tarixi
+İnternet qlobal şəbəkədə birləşmiş milyonlarla kompyuterləri, proqramları, verilənlər bazalarını, fayl və insanları birləşdirən şəbəkələrdən ibarət şəbəkədir.
+1969-cu il tarixindən etibarən Amerika Birləşmiş Ştatları İnternetin əsasını qoydu. Bu zaman bir qrup alim kompyuterlərin şəbəkələrə birləşdirilməsi üzrə tədqiqatlara başlamışdır. Tədqiqat ABŞ-ın Müdafiə Nazirliyi bölməsi olan Advanced Research Project Agency (ARPA-Elmi Araşdırmalar Agentliyi) tərəfindən maliyyələşdirilmişdir. Şəbəkə bir tərəfdən hərbi-sənaye sahəsində elmi tədqiqatlara təkan verməli, digər tərəfdən, məsələn, aviasiya bombardmanı zamanı zədələnməyə dayanıqlı və bu şəraitdə normal fəaliyyətini davam etdirmək gücünə malik olan şəbəkələrin qurulması idi. Bu layihə ARPANET adlandırıldı.
+ARPANET layihəsi çərçivəsində iş paketlərin kommutasiyası ilə şəbəkələrin yaradılmasına əsaslanır. Bu şəbəkə növündə informasiya (məsələn, xəbər) böyük olmayan paketlərə bölünür, həmin paketlər təyin olunmuş yerə çatana qədər səmərəli marşrut seçərək bir-birindən asılı olmayaraq müxtəlif şəbəkələrdə yerini dəyişir. Sonda bütün paketlər son nöqtəyə çataraq yenidən birləşərək ilkin formanı alır. Bütün kompyuterlərin eyni hüquqlu olması informasiyanın konkret bir kompyuterdən asılılığını aradan qaldırır. Bu texnologiya hətta müharibə vaxtı belə kommunikasiyaların işinin kəsilməməsinə təminat verirdi. Əgər kommunikasiya xəttinin bir hissəsi sıradan çıxarsa, böyük olmayan paketlər digər işləyən xətlərə ötürülə bilər.
+ARPANET sistemi uzaq məsafədə olan kompyuter mərkəzləri ilə əlaqələri yaradırdı. Bu sistem informasiya mübadiləsi üçün istifadə olunurdu. Sistem inkişaf edərək, 1983-cü ildə iki şəbəkəyə – ARPANET və MİLNET şəbəkələrinə bölünür. MILNET səbəkəsi hərbi məqsədlər, ARPANET şəbəkəsi isə elmi tədqiqatlar üçün nəzərdə tutulurdu. İki şəbəkə arasında informasiya mübadiləsi imkanı yaranır və bu birləşmə İnternet adı ilə tanınır. 1980-ci ildə yeni şəbəkələr meydana gəldi. Məsələn, BITNET (Because It’s Time Network), CSNET (Computer Science Network) şəbəkəsi hesablama texnikası və proqramlaşdırma üzrə tədqiqatçıları birləşdirirdi. 1985-ci ildə ABŞ Elmi Fondu (NFS) tərəfindən NFSNet yaradıldı. Bu şəbəkə 5 superkompyuteri əlaqələndirirdi. 1990-cı ildə ARPANET öz fəaliyyətini dayandırdı, onun funksiyalarını NSFNET yerinə yetirirdi. Praktik olaraq NSFNet şəbəkəsi bir çox şəbəkəni birləşdirərək indiki İnterneti yaratmışdır. Bununla əlaqədar olaraq İnternet-provayderlərin (ISP – İnternet Service Provider) sayı getdikcə artmağa başladı. İlk kommersiya məqsədli İnternet-provayder “The World” olmuşdur.  Sonralar şəbəkəyə Avstriya, Argentina, Belçika, Braziliya, Yunanıstan, İrlandiya, Hindistan, İspaniya, Çili, İsveçrə və Cənubi Koreya və digər ölkələr qoşuldu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
